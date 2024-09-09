@@ -3,26 +3,27 @@ import pandas as pd
 from dateutil import parser
 import logging
 
-logger = logging.getLogger('excel_generator')
+class ExcelGenerator:
+    def __init__(self):
+        self.logger = logging.getLogger('excel_generator')
 
-def generate_excel(reviews, product_id):
-    try:
+    def generate_excel(self, reviews, product_info):
         for review in reviews:
             try:
-                review['date'] = parser.parse(review['date']).strftime('%d/%m/%Y')
+                review['date'] = parser.parse(review['date']).strftime('%d.%m.%Y')
             except ValueError:
                 review['date'] = 'Invalid Date'
-                logger.warning(f"Неверный формат даты для отзыва товара {product_id}")
+                self.logger.warning(f"Неверный формат даты для отзыва товара {product_info['article']}")
 
         df = pd.DataFrame(reviews)
         
         column_names = {
-            'date': ('Дата'),
-            'stars': ('Количество звезд'),
-            'text': ('Текст отзыва'),
-            'name': ('Имя'),
-            'color': ('Цвет'),
-            'size': ('Размер'),
+            'date': 'Дата',
+            'stars': 'Количество звезд',
+            'text': 'Текст отзыва',
+            'name': 'Имя',
+            'color': 'Цвет',
+            'size': 'Размер'
         }
         
         df = df.rename(columns=column_names)
@@ -30,11 +31,19 @@ def generate_excel(reviews, product_id):
         
         output = io.BytesIO()
         with pd.ExcelWriter(output, engine='openpyxl') as writer:
-            df.to_excel(writer, index=False, sheet_name=f"{('Отзывы артикула')} {product_id}")
+            df.to_excel(writer, index=False, sheet_name=f"Отзывы артикула {product_info['article']}")
+            
+            # Добавляем информацию о товаре на отдельный лист
+            product_df = pd.DataFrame([{
+                'Артикул': product_info['article'],
+                'IMT ID': product_info['imt_id'],
+                'Название': product_info['name'],
+                'Бренд': product_info['brand'],
+                'ID продавца': product_info['seller_id']
+            }])
+            product_df.to_excel(writer, index=False, sheet_name='Информация о товаре')
+            
         output.seek(0)
         
-        logger.info(f"Excel-файл для товара {product_id} успешно создан")
-        return output, f"reviews_{product_id}.xlsx"
-    except Exception as e:
-        logger.error(f"Ошибка при создании Excel-файла для товара {product_id}: {str(e)}")
-        raise
+        self.logger.info(f"Excel-файл для товара {product_info['article']} успешно создан")
+        return output, f"reviews_{product_info['article']}.xlsx"
