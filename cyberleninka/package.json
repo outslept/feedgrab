@@ -1,0 +1,21 @@
+{
+	"name": "cyberleninka-parser",
+	"version": "1.0.0",
+	"description": "A parser for CyberLeninka",
+	"main": "dist/index.js",
+	"scripts": {
+		"start": "ts-node src/index.ts",
+		"build": "tsc"
+	},
+	"dependencies": {
+		"axios": "^1.7.7",
+		"play-sound": "^1.1.6",
+		"puppeteer": "^23.4.1"
+	},
+	"devDependencies": {
+		"@types/node": "^22.7.4",
+		"@types/play-sound": "^1.1.2",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.6.2"
+	}
+}
