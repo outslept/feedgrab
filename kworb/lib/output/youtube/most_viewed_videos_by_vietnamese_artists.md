@@ -1,0 +1,54 @@
+# Most viewed videos by Vietnamese artists
+
+| Rank | Title | Views | Daily Views | URL |
+|------|--------|-------|-------------|-----|
+| 1 | Bống Bống Bang Bang - Bé Bào Ngư | 616,533,006 | 124,126 | [Watch](https://youtube.com/watch?v=GhZML0HSli8) |
+| 2 | 365DABAND - BỐNG BỐNG BANG BANG | OFFICIAL MV (TẤM CÁM: CHUYỆN CHƯA KỂ OST) | 610,664,019 | 59,562 | [Watch](https://youtube.com/watch?v=BwN3NiZt-PU) |
+| 3 | Thương Lắm Thầy Cô Ơi! - Bé Phan Hiếu Kiên | 517,805,989 | 66,713 | [Watch](https://youtube.com/watch?v=pLHSPrJUx4s) |
+| 4 | SÓNG GIÓ | ICM x JACK | OFFICIAL MUSIC VIDEO | 447,619,501 | 56,154 | [Watch](https://youtube.com/watch?v=j8U06veqxdU) |
+| 5 | Xúc Xắc Xúc Xẻ - Bé Bảo An ft Phi Long _ Official Mv | 432,369,165 | 5,372 | [Watch](https://youtube.com/watch?v=LjuNB23gTiU) |
+| 6 | BẠC PHẬN | ICM x JACK | OFFICIAL MV | 416,805,091 | 54,353 | [Watch](https://youtube.com/watch?v=WX7dUj14Z00) |
+| 7 | NƠI NÀY CÓ ANH | OFFICIAL MUSIC VIDEO | SƠN TÙNG M-TP | 386,789,999 | 109,743 | [Watch](https://youtube.com/watch?v=FN7ALfpGxiI) |
+| 8 | Xúc Xắc Xúc Xẻ - Bé Bảo An ft Phi Long | 371,688,528 | 148,373 | [Watch](https://youtube.com/watch?v=Fd7lYEtevxQ) |
+| 9 | EM GÌ ƠI | ICM x JACK | OFFICIAL MUSIC VIDEO | 369,117,869 | 26,311 | [Watch](https://youtube.com/watch?v=cBClD7jylos) |
+| 10 | Đại Ca Lớp 12A ( Túy Âm + Save Me Parody ) - LEG | 334,875,727 | 34,517 | [Watch](https://youtube.com/watch?v=WuUkaJ6hyc4) |
+| 11 | JACK - HỒNG NHAN [OFFICIAL MV] | G5R | 294,435,300 | 21,444 | [Watch](https://youtube.com/watch?v=8x2NjwwHUbQ) |
+| 12 | SƠN TÙNG M-TP | HÃY TRAO CHO ANH ft. Snoop Dogg | Official MV | 292,567,443 | 21,863 | [Watch](https://youtube.com/watch?v=knW7-x7Y7RE) |
+| 13 | LẠC TRÔI | OFFICIAL MUSIC VIDEO | SƠN TÙNG M-TP | 275,322,691 | 21,349 | [Watch](https://youtube.com/watch?v=Llw9Q6akRo4) |
+| 14 | THẰNG ĐIÊN | JUSTATEE x PHƯƠNG LY | OFFICIAL MV | 272,350,017 | 64,920 | [Watch](https://youtube.com/watch?v=HXkh7EOqcQ4) |
+| 15 | PHÍA SAU MỘT CÔ GÁI - Soobin Hoàng Sơn ( OFFICIAL Lyric Video ) | 257,057,595 | 9,981 | [Watch](https://youtube.com/watch?v=j__Q13iAxNk) |
+| 16 | BÍCH PHƯƠNG x MIRINDA - Chuyện Cũ Bỏ Qua (Official M/V) | 247,884,813 | 233,344 | [Watch](https://youtube.com/watch?v=kDmOOj5Y0DI) |
+| 17 | MÌNH CƯỚI NHAU ĐI - Pjnboys x Huỳnh James (Official MV) | 242,908,472 | 11,707 | [Watch](https://youtube.com/watch?v=BBRCKcGPmhI) |
+| 18 | Ngắm Hoa Lệ Rơi - Châu Khải Phong | Official Lyric Video | 239,139,045 | 22,933 | [Watch](https://youtube.com/watch?v=SItFPrgEITM) |
+| 19 | Người Lạ Ơi ! Official MV | Châu Đăng Khoa x Karik x Orange | 231,737,011 | 14,701 | [Watch](https://youtube.com/watch?v=g20t_K9dlhU) |
+| 20 | Bé Bảo An - Mẹ Ơi Tại Sao | 230,820,246 | 3,242 | [Watch](https://youtube.com/watch?v=s3_jm0aMktQ) |
+| 21 | Chúng Ta Không Thuộc Về Nhau | Official Music Video | Sơn Tùng M-TP | 227,972,924 | 32,202 | [Watch](https://youtube.com/watch?v=qGRU3sRbaYw) |
+| 22 | SƠN TÙNG M-TP | MUỘN RỒI MÀ SAO CÒN | OFFICIAL MUSIC VIDEO | 216,425,830 | 39,935 | [Watch](https://youtube.com/watch?v=xypzmu5mMPY) |
+| 23 | Túy Âm - Xesi x Masew x Nhatnguyen | 212,865,663 | 50,152 | [Watch](https://youtube.com/watch?v=EV-91JV4Fws) |
+| 24 | JustaTee - Đã Lỡ Yêu Em Nhiều (Official MV) | 198,326,618 | 29,777 | [Watch](https://youtube.com/watch?v=KhTCatAKVpk) |
+| 25 | ERIK - CHẠM ĐÁY NỖI ĐAU M/V (ft. MR.SIRO) | 191,640,192 | 12,311 | [Watch](https://youtube.com/watch?v=8BAdhoeabUM) |
+| 26 | Buồn Của Anh | K-ICM x Đạt G x Masew | 190,650,720 | 7,480 | [Watch](https://youtube.com/watch?v=1-Zee9ZJH7o) |
+| 27 | Hoàng Thuỳ Linh - Để Mị Nói Cho Mà Nghe (Let Mi tell) | Official Music Video | 186,927,606 | 40,404 | [Watch](https://youtube.com/watch?v=JAhdeizXpaQ) |
+| 28 | SƠN TÙNG M-TP | CÓ CHẮC YÊU LÀ ĐÂY | OFFICIAL MUSIC VIDEO | 179,081,420 | 20,266 | [Watch](https://youtube.com/watch?v=6t-MjBazs3o) |
+| 29 | BB&BG : Anh Không Đòi Quà [Parody][Official] | 172,619,424 | 1,658 | [Watch](https://youtube.com/watch?v=kLr-VGfi6Pw) |
+| 30 | THE MEN | NẾU LÀ ANH | OFFICIAL MV | 171,319,263 | 52,543 | [Watch](https://youtube.com/watch?v=003LPzYwSNc) |
+| 31 | Ông Già Noel Vui Tính - Bé Phan Hiếu Kiên | 168,987,971 | 5,202 | [Watch](https://youtube.com/watch?v=fxuZuhOP-fc) |
+| 32 | CHẠY NGAY ĐI | RUN NOW | SƠN TÙNG M-TP | Official Music Video | 160,927,956 | 6,660 | [Watch](https://youtube.com/watch?v=32sYGCOYJUM) |
+| 33 | Hương Tràm - Em Gái Mưa (Official MV) | 158,309,979 | 4,895 | [Watch](https://youtube.com/watch?v=Y29OrOVJUKs) |
+| 34 | Phim Ca Nhạc Giải Cứu Tiểu Thư 1 | Hồ Việt Trung x Hồ Quang Hiếu | 156,558,663 | 802 | [Watch](https://youtube.com/watch?v=2xZszvaeRlU) |
+| 35 | Yêu Là "Tha Thu" | Only C | Em Chưa 18 OST | Official Music Video | 155,968,828 | 4,856 | [Watch](https://youtube.com/watch?v=-nnWBhKZeg0) |
+| 36 | Âm Thầm Bên Em | OFFICIAL MUSIC VIDEO | Sơn Tùng M-TP | 153,901,237 | 27,226 | [Watch](https://youtube.com/watch?v=30KI5SuECuc) |
+| 37 | [OFFICIAL MV] QUĂNG TAO CÁI BOONG - Huỳnh James x Pjnboys | 153,364,752 | 1,177 | [Watch](https://youtube.com/watch?v=1pyfe_IHov8) |
+| 38 | Nếu Em Còn Tồn Tại - Trịnh Đình Quang (MV Official) | 153,187,697 | 7,902 | [Watch](https://youtube.com/watch?v=1Zn4L7vi9gg) |
+| 39 | Sai Người, Sai Thời Điểm - Thanh Hưng || VIDEO LYRICS | 152,735,771 | 0 | [Watch](https://youtube.com/watch?v=5R5YnEbp2CU) |
+| 40 | MIN - ĐỪNG YÊU NỮA, EM MỆT RỒI | OFFICIAL MUSIC VIDEO | 149,256,698 | 9,333 | [Watch](https://youtube.com/watch?v=2sIC1sh-yc0) |
+| 41 | THÍCH THÌ ĐẾN | LÊ BẢO BÌNH | OFFICIAL MUSIC VIDEO | 148,141,378 | 13,136 | [Watch](https://youtube.com/watch?v=j4Jj29mUYS8) |
+| 42 | KHẮC HƯNG x MIN x ERIK - Ghen | OFFICIAL MUSIC VIDEO | 147,140,325 | 9,386 | [Watch](https://youtube.com/watch?v=Vk8_0QaJr3I) |
+| 43 | Buông Đôi Tay Nhau Ra | OFFICIAL MUSIC VIDEO | Sơn Tùng M-TP | 147,055,892 | 33,814 | [Watch](https://youtube.com/watch?v=LCyo565N_5w) |
+| 44 | Trái Tim Em Cũng Biết Đau | Bảo Anh | Official Music Video | 146,750,194 | 2,598 | [Watch](https://youtube.com/watch?v=_esoNnEflzM) |
+| 45 | SÁNG MẮT CHƯA? (MV) | TRÚC NHÂN (#SMC?) | ตาสว่างหรือยัง | 146,020,480 | 10,461 | [Watch](https://youtube.com/watch?v=rDhx4ejrPPA) |
+| 46 | Vợ Người Ta - Phan Mạnh Quỳnh (Đám Cưới Version) | 145,763,886 | 2,351 | [Watch](https://youtube.com/watch?v=eyFP5s403jY) |
+| 47 | Đừng Quên Tên Anh - Official Music Video (4k) | Hoa Vinh | 145,582,386 | 0 | [Watch](https://youtube.com/watch?v=5WN19l18Eo8) |
+| 48 | BỐN CHỮ LẮM (MV) - TRÚC NHÂN - TRƯƠNG THẢO NHI [ Chất Lượng 4k] | 145,243,933 | 5,239 | [Watch](https://youtube.com/watch?v=i724lraI93s) |
+| 49 | Bé Chút Chít | Bé Bảo An&Phi Long | 142,909,097 | 837 | [Watch](https://youtube.com/watch?v=c56HIfDdlrY) |
+| 50 | Đời Anh Xe Ôm ( Despacito Nhạc Chế Parody ) - LEG | 136,405,304 | 13,847 | [Watch](https://youtube.com/watch?v=nVpxjLRl5SY) |

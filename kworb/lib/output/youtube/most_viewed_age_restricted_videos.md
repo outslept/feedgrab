@@ -1,0 +1,54 @@
+# Most viewed age-restricted videos
+
+| Rank | Title | Views | Daily Views | URL |
+|------|--------|-------|-------------|-----|
+| 1 | B Praak: Dil Tod Ke Official Song | Rochak Kohli , Manoj M |Abhishek S, Kaashish V | Bhushan Kumar | 556,069,376 | NaN | [Watch](https://youtube.com/watch?v=ZTBwxy4wsBQ) |
+| 2 | XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd) | 401,738,839 | NaN | [Watch](https://youtube.com/watch?v=JcWOSgImiRw) |
+| 3 | Big Sean - I Don't Fuck With You (Official Music Video) ft. E-40 | 390,390,486 | NaN | [Watch](https://youtube.com/watch?v=cZaJYDPY-YQ) |
+| 4 | YOASOBI「夜に駆ける」 Official Music Video | 278,845,867 | NaN | [Watch](https://youtube.com/watch?v=x8VYWazR5mE) |
+| 5 | DOORIYAN : GURI (Official Video) Jism Ve Zakhmi Aw | Punjabi Sad Songs | GK Digital | Geet MP3 | 270,654,548 | NaN | [Watch](https://youtube.com/watch?v=uQCV5iVCpx4) |
+| 6 | Raí Saia Rodada -  Bebe Vem Me Procurar (Clipe Oficial) | 266,842,481 | NaN | [Watch](https://youtube.com/watch?v=7dKdvqmR8FA) |
+| 7 | Calle 13 - Muerte En Hawaii (Official Video) | 253,807,994 | NaN | [Watch](https://youtube.com/watch?v=ZAjASemgx3E) |
+| 8 | Gusttavo Lima - Zé da Recaída | 232,104,261 | NaN | [Watch](https://youtube.com/watch?v=ng4MxUWqsR0) |
+| 9 | Arijit Singh : Lambiyaan Si Judaiyaan  Full Song | Raabta | Sushant Rajput, Kriti Sanon | T-Series | 231,767,338 | NaN | [Watch](https://youtube.com/watch?v=u2A6znC7LIg) |
+| 10 | ภูมิแพ้กรุงเทพ (Feat. ตั๊กแตน ชลดา) - ป้าง นครินทร์「Official MV」 | 219,321,307 | NaN | [Watch](https://youtube.com/watch?v=dr-5SO5HgQY) |
+| 11 | 'I FINK U FREEKY' by DIE ANTWOORD (Official) | 195,645,525 | NaN | [Watch](https://youtube.com/watch?v=8Uee_mcxvrw) |
+| 12 | Rammstein - Ich Tu Dir Weh (Official Video) | 187,502,265 | NaN | [Watch](https://youtube.com/watch?v=IxuEtL7gxoM) |
+| 13 | Eminem - The Way I Am | 187,114,646 | NaN | [Watch](https://youtube.com/watch?v=mQvteoFiMlg) |
+| 14 | Drake - Worst Behavior | 180,780,843 | NaN | [Watch](https://youtube.com/watch?v=CccnAvfLPvE) |
+| 15 | P!nk - F**kin' Perfect (Official Video - Explicit) | 177,756,797 | NaN | [Watch](https://youtube.com/watch?v=ocDlOD1Hw9k) |
+| 16 | Dil Lauta Do Song | Jubin Nautiyal, Payal Dev | Sunny K, Saiyami K | Kunaal V | Navjit B | Bhushan K | 176,137,866 | NaN | [Watch](https://youtube.com/watch?v=A_huhqaSLlM) |
+| 17 | Jinke Liye (Official Video) | Neha Kakkar Feat. Jaani | B Praak | Arvindr Khaira | Bhushan Kumar | 172,200,266 | NaN | [Watch](https://youtube.com/watch?v=0NhiNqI0SFs) |
+| 18 | Rihanna - Bitch Better Have My Money (Explicit) | 172,019,633 | NaN | [Watch](https://youtube.com/watch?v=B3eAMGXFw1o) |
+| 19 | Pritam, Shafqat Amanat Ali - Teri Jhuki Nazar (From "Murder 3") | 169,697,567 | NaN | [Watch](https://youtube.com/watch?v=ZgIzch1Pqj4) |
+| 20 | [OFFICIAL MV] QUĂNG TAO CÁI BOONG - Huỳnh James x Pjnboys | 153,364,752 | NaN | [Watch](https://youtube.com/watch?v=1pyfe_IHov8) |
+| 21 | Jc La Nevula - Sin Compromiso (Video Oficial) | 140,489,592 | NaN | [Watch](https://youtube.com/watch?v=ciDX03l03Yg) |
+| 22 | Pearl Jam - Jeremy (Official 4K Video) | 139,047,292 | NaN | [Watch](https://youtube.com/watch?v=MS91knuzoOA) |
+| 23 | P!NK - Perfect | 134,702,585 | NaN | [Watch](https://youtube.com/watch?v=K3GkSo3ujSY) |
+| 24 | CeeLo Green - FUCK YOU (Official Video) | 126,968,501 | NaN | [Watch](https://youtube.com/watch?v=pc0mxOXbWIU) |
+| 25 | SKI MASK THE SLUMP GOD x XXXTENTACION - TAKE A STEP BACK | 121,765,794 | NaN | [Watch](https://youtube.com/watch?v=2FsnVCLYcrM) |
+| 26 | Cardi B - Press [Official Music Video] | 118,136,714 | NaN | [Watch](https://youtube.com/watch?v=cJc7xWJbwJw) |
+| 27 | THẬT BẤT NGỜ (MV) - TRÚC NHÂN | 117,579,509 | NaN | [Watch](https://youtube.com/watch?v=YUAmi7Q2F0Y) |
+| 28 | Tame Impala - The Less I Know The Better (Official Video) | 112,590,013 | NaN | [Watch](https://youtube.com/watch?v=sBzrzS1Ag_g) |
+| 29 | The Weeknd - In Your Eyes (Official Video) | 105,291,934 | NaN | [Watch](https://youtube.com/watch?v=dqRZDebPIGs) |
+| 30 | Rammstein - Radio (Official Video) | 103,836,123 | NaN | [Watch](https://youtube.com/watch?v=z0NfI2NeDHI) |
+| 31 | The 1975 - Robbers (Official Video) (Explicit) | 94,935,356 | NaN | [Watch](https://youtube.com/watch?v=Iyy3YOpxL2k) |
+| 32 | Lil Dicky - Lemme Freak (Official Video) | 94,679,838 | NaN | [Watch](https://youtube.com/watch?v=ocGiulPm3IU) |
+| 33 | Eladio Carrion, Khea, Noriel, Jon Z, Juhn, Ecko - Me Usaste (Video Oficial) | 93,138,195 | NaN | [Watch](https://youtube.com/watch?v=Hzhvpr9mZQ8) |
+| 34 | Michael Jackson - They Don't Care About Us (Prison Version) (Official Video) | 92,060,639 | NaN | [Watch](https://youtube.com/watch?v=t1pqi8vjTLY) |
+| 35 | ScHoolboy Q - Studio (Explicit) (Official Music Video) ft. BJ The Chicago Kid | 85,221,199 | NaN | [Watch](https://youtube.com/watch?v=8zo9VTJUVWc) |
+| 36 | YNW Melly - Virtual (Blue Balenciagas) (Shot By @DrewFilmedIt) | 82,720,784 | NaN | [Watch](https://youtube.com/watch?v=7LWQEokkCqo) |
+| 37 | MC Don Juan e MC Davi - Bye Bye (GR6 Filmes) Perera DJ | 81,937,116 | NaN | [Watch](https://youtube.com/watch?v=iDDKDZEjbfM) |
+| 38 | Robin Thicke - Blurred Lines (Unrated Version) ft. T.I., Pharrell | 81,838,889 | NaN | [Watch](https://youtube.com/watch?v=zwT6DZCQi9k) |
+| 39 | MC Brisola - Festa Bem Louca (Vídeo Clipe) DJ R7 | 78,832,540 | NaN | [Watch](https://youtube.com/watch?v=fVyM2FDR1ow) |
+| 40 | Joyner Lucas - I'm Sorry (508)-507-2209 | 77,308,685 | NaN | [Watch](https://youtube.com/watch?v=AjKbw1Cqpt0) |
+| 41 | Zé Neto e Cristiano - ALÔ AMBEV - Clipe oficial | 76,196,925 | NaN | [Watch](https://youtube.com/watch?v=OZrKgUAP2-0) |
+| 42 | Aamrapali Dubey का सबसे प्यार भरा गीत 2023 - जो आपको दीवाना बना देगा | 76,125,369 | NaN | [Watch](https://youtube.com/watch?v=hrDT_JDerQ4) |
+| 43 | lil peep x lil tracy - white wine | 73,872,868 | NaN | [Watch](https://youtube.com/watch?v=wckAAh-V428) |
+| 44 | Oh Na Rahi: Goldboy (Full Song) | Nirmaan |  Latest Punjabi Songs 2018 | 70,811,198 | NaN | [Watch](https://youtube.com/watch?v=WFE4GrdJvFY) |
+| 45 | Green Day - Jesus Of Suburbia (Short Version) [Official Music Video] | 70,655,662 | NaN | [Watch](https://youtube.com/watch?v=FNKPYhXmzoE) |
+| 46 | Aashiqui 2 All Video Songs With Dialogues | Aditya Roy Kapur, Shraddha Kapoor | 67,812,969 | NaN | [Watch](https://youtube.com/watch?v=XNMMrbHMiNM) |
+| 47 | C. Tangana, NATHY PELUSO - Ateo (Video Oficial) | 67,725,193 | NaN | [Watch](https://youtube.com/watch?v=Y9WJOopLYBQ) |
+| 48 | Mucha Marihuana - Cartel de Santa (VIDEO OFICIAL) New Video | 66,978,959 | NaN | [Watch](https://youtube.com/watch?v=rAfokIMPj1I) |
+| 49 | NF - Therapy Session | 66,350,441 | NaN | [Watch](https://youtube.com/watch?v=KgMzxQW2raE) |
+| 50 | Kanye West - Famous | 66,170,843 | NaN | [Watch](https://youtube.com/watch?v=p7FCgw_GlWc) |
