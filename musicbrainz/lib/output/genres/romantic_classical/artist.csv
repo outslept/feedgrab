@@ -1,0 +1,100 @@
+id,name,count,url,related
+1f9df192-a621-4f54-8850-2c5373b7eac9,Ludwig van Beethoven,5,https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9,/artist/1f9df192-a621-4f54-8850-2c5373b7eac9
+44b16e44-da77-4580-b851-0d765904573e,Сергей Васильевич Рахманинов,3,https://musicbrainz.org/artist/44b16e44-da77-4580-b851-0d765904573e,/artist/44b16e44-da77-4580-b851-0d765904573e
+f91e3a88-24ee-4563-8963-fab73d2765ed,Franz Schubert,3,https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed,/artist/f91e3a88-24ee-4563-8963-fab73d2765ed
+9ddd7abc-9e1b-471d-8031-583bc6bc8be9,Пётр Ильич Чайковский,3,https://musicbrainz.org/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9,/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9
+274774a7-1cde-486a-bc3d-375ec54d552d,Hector Berlioz,2,https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d,/artist/274774a7-1cde-486a-bc3d-375ec54d552d
+9bd20e6a-b41d-4983-a5b6-c0ff849fa235,Georges Bizet,2,https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235,/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235
+c70d12a2-24fe-4f83-a6e6-57d84f8efb51,Johannes Brahms,2,https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51,/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51
+375d52ad-5b7a-4f96-80e2-6d9ad13f5160,Luigi Cherubini,2,https://musicbrainz.org/artist/375d52ad-5b7a-4f96-80e2-6d9ad13f5160,/artist/375d52ad-5b7a-4f96-80e2-6d9ad13f5160
+09ff1fe8-d61c-4b98-bb82-18487c74d7b7,Fryderyk Chopin,2,https://musicbrainz.org/artist/09ff1fe8-d61c-4b98-bb82-18487c74d7b7,/artist/09ff1fe8-d61c-4b98-bb82-18487c74d7b7
+8048b7be-cda8-4e5a-bc4b-57267fc05be1,Paul Dukas,2,https://musicbrainz.org/artist/8048b7be-cda8-4e5a-bc4b-57267fc05be1,/artist/8048b7be-cda8-4e5a-bc4b-57267fc05be1
+30d66d7f-dd2e-4445-893c-95c5be92f4a8,Louise Farrenc,2,https://musicbrainz.org/artist/30d66d7f-dd2e-4445-893c-95c5be92f4a8,/artist/30d66d7f-dd2e-4445-893c-95c5be92f4a8
+fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f,Gabriel Fauré,2,https://musicbrainz.org/artist/fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f,/artist/fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f
+2cd475bb-1abd-40c4-9904-6d4b691c752c,Franz Liszt,2,https://musicbrainz.org/artist/2cd475bb-1abd-40c4-9904-6d4b691c752c,/artist/2cd475bb-1abd-40c4-9904-6d4b691c752c
+8d610e51-64b4-4654-b8df-064b0fb7a9d9,Gustav Mahler,2,https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9,/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9
+c1380b12-3909-47d8-a5fd-d20e76123310,Модест Петрович Мусоргский,2,https://musicbrainz.org/artist/c1380b12-3909-47d8-a5fd-d20e76123310,/artist/c1380b12-3909-47d8-a5fd-d20e76123310
+4137c070-15b2-4d00-a9f0-3517d02a9ba8,Camille Saint‐Saëns,2,https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8,/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8
+eefd7c1e-abcf-4ccc-ba60-0fd435c9061f,Richard Wagner,2,https://musicbrainz.org/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f,/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f
+c2d17829-1424-435b-9386-c77d3a920abe,Carl Maria von Weber,2,https://musicbrainz.org/artist/c2d17829-1424-435b-9386-c77d3a920abe,/artist/c2d17829-1424-435b-9386-c77d3a920abe
+5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0,Academy of Ancient Music,1,https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0,/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+3af5dc35-791a-4ccc-8d3b-ec821986fb03,Théodore Akimenko,1,https://musicbrainz.org/artist/3af5dc35-791a-4ccc-8d3b-ec821986fb03,/artist/3af5dc35-791a-4ccc-8d3b-ec821986fb03
+62000bf9-9919-4dfb-9929-15f013fca57b,Charles-Valentin Alkan,1,https://musicbrainz.org/artist/62000bf9-9919-4dfb-9929-15f013fca57b,/artist/62000bf9-9919-4dfb-9929-15f013fca57b
+e4d28ff6-9235-4c42-8e3a-e20d2534b843,天野正道,1,https://musicbrainz.org/artist/e4d28ff6-9235-4c42-8e3a-e20d2534b843,/artist/e4d28ff6-9235-4c42-8e3a-e20d2534b843
+0b607587-9e4e-4ff9-b200-af563678ae2f,Kurt Atterberg,1,https://musicbrainz.org/artist/0b607587-9e4e-4ff9-b200-af563678ae2f,/artist/0b607587-9e4e-4ff9-b200-af563678ae2f
+2b7d0667-95d0-4004-930a-dcac2338a631,Amy Beach,1,https://musicbrainz.org/artist/2b7d0667-95d0-4004-930a-dcac2338a631,/artist/2b7d0667-95d0-4004-930a-dcac2338a631
+690e5d3a-ad3a-486d-a454-545a65c0f588,Antoine Bélanger,1,https://musicbrainz.org/artist/690e5d3a-ad3a-486d-a454-545a65c0f588,/artist/690e5d3a-ad3a-486d-a454-545a65c0f588
+9edfb1c6-35e2-44fc-b88b-95462a35db4e,Firmin Bernicat,1,https://musicbrainz.org/artist/9edfb1c6-35e2-44fc-b88b-95462a35db4e,/artist/9edfb1c6-35e2-44fc-b88b-95462a35db4e
+449222bf-de48-4197-b2c2-a7c889619c58,Adolph Kurt Böhm,1,https://musicbrainz.org/artist/449222bf-de48-4197-b2c2-a7c889619c58,/artist/449222bf-de48-4197-b2c2-a7c889619c58
+344d0eae-3b48-4da7-8c56-af771c4f6c1e,Arrigo Boito,1,https://musicbrainz.org/artist/344d0eae-3b48-4da7-8c56-af771c4f6c1e,/artist/344d0eae-3b48-4da7-8c56-af771c4f6c1e
+560b5e65-8d53-41b4-9913-83368f4721a0,Александр Порфирьевич Бородин,1,https://musicbrainz.org/artist/560b5e65-8d53-41b4-9913-83368f4721a0,/artist/560b5e65-8d53-41b4-9913-83368f4721a0
+cab67e98-340d-424e-baf1-b127902c200b,Ferruccio Busoni,1,https://musicbrainz.org/artist/cab67e98-340d-424e-baf1-b127902c200b,/artist/cab67e98-340d-424e-baf1-b127902c200b
+a6373dbb-5299-4e37-92f2-ece49eae237f,Teresa Carreño,1,https://musicbrainz.org/artist/a6373dbb-5299-4e37-92f2-ece49eae237f,/artist/a6373dbb-5299-4e37-92f2-ece49eae237f
+3d217bc1-cc90-4261-a230-46c0f6b7492c,Emmanuel Chabrier,1,https://musicbrainz.org/artist/3d217bc1-cc90-4261-a230-46c0f6b7492c,/artist/3d217bc1-cc90-4261-a230-46c0f6b7492c
+3c10ff66-b763-411c-b4de-65c2cf710938,Cécile Chaminade,1,https://musicbrainz.org/artist/3c10ff66-b763-411c-b4de-65c2cf710938,/artist/3c10ff66-b763-411c-b4de-65c2cf710938
+dbe921e2-a7a7-4d4c-b2f8-109da1cd1e3a,Ernest Chausson,1,https://musicbrainz.org/artist/dbe921e2-a7a7-4d4c-b2f8-109da1cd1e3a,/artist/dbe921e2-a7a7-4d4c-b2f8-109da1cd1e3a
+fb1c27b3-a54c-4c23-b554-9e989a955b39,Carl Czerny,1,https://musicbrainz.org/artist/fb1c27b3-a54c-4c23-b554-9e989a955b39,/artist/fb1c27b3-a54c-4c23-b554-9e989a955b39
+298fe520-8432-4be5-930a-406b94b5f988,Félicien-César David,1,https://musicbrainz.org/artist/298fe520-8432-4be5-930a-406b94b5f988,/artist/298fe520-8432-4be5-930a-406b94b5f988
+dfdad72b-6d15-462a-aca5-cc94b36d7a62,Adhiraj Debbarma,1,https://musicbrainz.org/artist/dfdad72b-6d15-462a-aca5-cc94b36d7a62,/artist/dfdad72b-6d15-462a-aca5-cc94b36d7a62
+c3b5a2c8-b0ab-47a5-8581-50c939dfdc1b,Delfín Tu Salsero,1,https://musicbrainz.org/artist/c3b5a2c8-b0ab-47a5-8581-50c939dfdc1b,/artist/c3b5a2c8-b0ab-47a5-8581-50c939dfdc1b
+2ad63e39-0101-4bbe-b573-a5c772013e16,Francesco Di Rosa,1,https://musicbrainz.org/artist/2ad63e39-0101-4bbe-b573-a5c772013e16,/artist/2ad63e39-0101-4bbe-b573-a5c772013e16
+1dcb560d-5cb8-4bd7-b38a-08db5b34f95b,Lucien Dommel,1,https://musicbrainz.org/artist/1dcb560d-5cb8-4bd7-b38a-08db5b34f95b,/artist/1dcb560d-5cb8-4bd7-b38a-08db5b34f95b
+d1591eff-428d-44ed-b7f0-f9936f1ab656,Théodore Dubois,1,https://musicbrainz.org/artist/d1591eff-428d-44ed-b7f0-f9936f1ab656,/artist/d1591eff-428d-44ed-b7f0-f9936f1ab656
+819eaeb2-8dd8-48a5-ad07-0bcd137985ef,Antonín Dvořák,1,https://musicbrainz.org/artist/819eaeb2-8dd8-48a5-ad07-0bcd137985ef,/artist/819eaeb2-8dd8-48a5-ad07-0bcd137985ef
+4e60a56a-514a-4a19-a3cc-49927c96b3cb,Edward Elgar,1,https://musicbrainz.org/artist/4e60a56a-514a-4a19-a3cc-49927c96b3cb,/artist/4e60a56a-514a-4a19-a3cc-49927c96b3cb
+9777e544-cca0-45d7-b12a-eac58d8f38d7,Heinrich Wilhelm Ernst,1,https://musicbrainz.org/artist/9777e544-cca0-45d7-b12a-eac58d8f38d7,/artist/9777e544-cca0-45d7-b12a-eac58d8f38d7
+69802473-e361-4e15-bbd8-53fe83cd1587,César Franck,1,https://musicbrainz.org/artist/69802473-e361-4e15-bbd8-53fe83cd1587,/artist/69802473-e361-4e15-bbd8-53fe83cd1587
+0f4eb46a-e2f8-4145-980a-1f3e05dc91d0,Gerónimo Giménez,1,https://musicbrainz.org/artist/0f4eb46a-e2f8-4145-980a-1f3e05dc91d0,/artist/0f4eb46a-e2f8-4145-980a-1f3e05dc91d0
+5a0988a4-695c-4bff-bc68-4f312427495e,Александр Константинович Глазунов,1,https://musicbrainz.org/artist/5a0988a4-695c-4bff-bc68-4f312427495e,/artist/5a0988a4-695c-4bff-bc68-4f312427495e
+7a62700f-4cfb-4957-a663-b938d179bd24,Michel Glotz,1,https://musicbrainz.org/artist/7a62700f-4cfb-4957-a663-b938d179bd24,/artist/7a62700f-4cfb-4957-a663-b938d179bd24
+cd4636e1-06a3-41fc-848a-624b84bbb023,Charles Gounod,1,https://musicbrainz.org/artist/cd4636e1-06a3-41fc-848a-624b84bbb023,/artist/cd4636e1-06a3-41fc-848a-624b84bbb023
+013c8e5b-d72a-4cd3-8dee-6c64d6125823,Edvard Grieg,1,https://musicbrainz.org/artist/013c8e5b-d72a-4cd3-8dee-6c64d6125823,/artist/013c8e5b-d72a-4cd3-8dee-6c64d6125823
+3a74cdd4-0188-454b-b19f-48abae350e2d,Reynaldo Hahn,1,https://musicbrainz.org/artist/3a74cdd4-0188-454b-b19f-48abae350e2d,/artist/3a74cdd4-0188-454b-b19f-48abae350e2d
+6ee2b4d1-febd-44c4-89d2-aeb38e9c8d59,Fromental Halévy,1,https://musicbrainz.org/artist/6ee2b4d1-febd-44c4-89d2-aeb38e9c8d59,/artist/6ee2b4d1-febd-44c4-89d2-aeb38e9c8d59
+717d1c41-76a2-4203-9f36-f5d2dc873cc6,Victor Herbert,1,https://musicbrainz.org/artist/717d1c41-76a2-4203-9f36-f5d2dc873cc6,/artist/717d1c41-76a2-4203-9f36-f5d2dc873cc6
+3ba68671-e3b5-4263-81dc-76b16b29bbc6,Gustav Holst,1,https://musicbrainz.org/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6,/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6
+9066b175-84c0-47f5-a792-dd7c23beb639,Leslie Howard,1,https://musicbrainz.org/artist/9066b175-84c0-47f5-a792-dd7c23beb639,/artist/9066b175-84c0-47f5-a792-dd7c23beb639
+777544d3-9d3e-4ec3-b3b8-b88717d12a22,Chamber Choir Hymnia,1,https://musicbrainz.org/artist/777544d3-9d3e-4ec3-b3b8-b88717d12a22,/artist/777544d3-9d3e-4ec3-b3b8-b88717d12a22
+325f8afe-eb01-442c-bc09-65cc093ceaf3,Vincent d’Indy,1,https://musicbrainz.org/artist/325f8afe-eb01-442c-bc09-65cc093ceaf3,/artist/325f8afe-eb01-442c-bc09-65cc093ceaf3
+9d6d1d30-8954-41d2-a855-38388e1ba369,Mila Khodorkovsky,1,https://musicbrainz.org/artist/9d6d1d30-8954-41d2-a855-38388e1ba369,/artist/9d6d1d30-8954-41d2-a855-38388e1ba369
+82c18d6f-1767-44d3-8df6-26c566aff796,Louis James Alfred Lefébure‐Wély,1,https://musicbrainz.org/artist/82c18d6f-1767-44d3-8df6-26c566aff796,/artist/82c18d6f-1767-44d3-8df6-26c566aff796
+a80496e7-c1d8-4aa3-96c1-c56b1582d2b8,Albéric Magnard,1,https://musicbrainz.org/artist/a80496e7-c1d8-4aa3-96c1-c56b1582d2b8,/artist/a80496e7-c1d8-4aa3-96c1-c56b1582d2b8
+95f7c24e-2879-4abb-ba35-906c467fc704,Pietro Mascagni,1,https://musicbrainz.org/artist/95f7c24e-2879-4abb-ba35-906c467fc704,/artist/95f7c24e-2879-4abb-ba35-906c467fc704
+85d783d6-6795-4726-b817-9d83095ad7be,Jules Massenet,1,https://musicbrainz.org/artist/85d783d6-6795-4726-b817-9d83095ad7be,/artist/85d783d6-6795-4726-b817-9d83095ad7be
+5b3f4700-d190-4f70-8f36-9b68e76d9464,Erkki Melartin,1,https://musicbrainz.org/artist/5b3f4700-d190-4f70-8f36-9b68e76d9464,/artist/5b3f4700-d190-4f70-8f36-9b68e76d9464
+cfb00fff-8895-484a-b459-f050d70abe2c,Fanny Mendelssohn,1,https://musicbrainz.org/artist/cfb00fff-8895-484a-b459-f050d70abe2c,/artist/cfb00fff-8895-484a-b459-f050d70abe2c
+0e85eb79-1c05-44ba-827c-7b259a3d941a,Felix Mendelssohn,1,https://musicbrainz.org/artist/0e85eb79-1c05-44ba-827c-7b259a3d941a,/artist/0e85eb79-1c05-44ba-827c-7b259a3d941a
+7d3968cf-a36a-402f-bcb2-4f967d39d642,André Messager,1,https://musicbrainz.org/artist/7d3968cf-a36a-402f-bcb2-4f967d39d642,/artist/7d3968cf-a36a-402f-bcb2-4f967d39d642
+73fd9f93-b4ed-4706-a1ee-742aea8ef1b9,Marco Misciagna,1,https://musicbrainz.org/artist/73fd9f93-b4ed-4706-a1ee-742aea8ef1b9,/artist/73fd9f93-b4ed-4706-a1ee-742aea8ef1b9
+71dcc616-5fbe-4811-aea6-90aee2913ecc,Speranța Moraru,1,https://musicbrainz.org/artist/71dcc616-5fbe-4811-aea6-90aee2913ecc,/artist/71dcc616-5fbe-4811-aea6-90aee2913ecc
+d40e48e3-fb42-4322-9573-65d6dd1a2b10,Nachtreich,1,https://musicbrainz.org/artist/d40e48e3-fb42-4322-9573-65d6dd1a2b10,/artist/d40e48e3-fb42-4322-9573-65d6dd1a2b10
+27bc8cf5-72e1-4888-87de-259fbcaac3ff,Jacques Offenbach,1,https://musicbrainz.org/artist/27bc8cf5-72e1-4888-87de-259fbcaac3ff,/artist/27bc8cf5-72e1-4888-87de-259fbcaac3ff
+d862c725-08b8-45bd-881b-3e6a9f295366,George Onslow,1,https://musicbrainz.org/artist/d862c725-08b8-45bd-881b-3e6a9f295366,/artist/d862c725-08b8-45bd-881b-3e6a9f295366
+2f25a38c-bbec-4f0a-9e51-ac6f306884f5,Suman Pokhrel,1,https://musicbrainz.org/artist/2f25a38c-bbec-4f0a-9e51-ac6f306884f5,/artist/2f25a38c-bbec-4f0a-9e51-ac6f306884f5
+b8f27069-283c-4a2d-979a-7ee9e0b49c75,Florence Price,1,https://musicbrainz.org/artist/b8f27069-283c-4a2d-979a-7ee9e0b49c75,/artist/b8f27069-283c-4a2d-979a-7ee9e0b49c75
+816e42ea-8aa0-47f0-913f-1640750405ce,Vikram Pro,1,https://musicbrainz.org/artist/816e42ea-8aa0-47f0-913f-1640750405ce,/artist/816e42ea-8aa0-47f0-913f-1640750405ce
+a693df4a-8762-4a45-b7fd-6695b558385e,Giacomo Puccini,1,https://musicbrainz.org/artist/a693df4a-8762-4a45-b7fd-6695b558385e,/artist/a693df4a-8762-4a45-b7fd-6695b558385e
+51f5d4c3-c69a-4203-9281-d585e32aa7ef,Max Reger,1,https://musicbrainz.org/artist/51f5d4c3-c69a-4203-9281-d585e32aa7ef,/artist/51f5d4c3-c69a-4203-9281-d585e32aa7ef
+846be3c9-5f94-46ab-97b9-531335dd3658,Gioachino Rossini,1,https://musicbrainz.org/artist/846be3c9-5f94-46ab-97b9-531335dd3658,/artist/846be3c9-5f94-46ab-97b9-531335dd3658
+8ce0c9f9-6fc7-4b61-b8a9-2e4786f7b6fa,Olga Rotari,1,https://musicbrainz.org/artist/8ce0c9f9-6fc7-4b61-b8a9-2e4786f7b6fa,/artist/8ce0c9f9-6fc7-4b61-b8a9-2e4786f7b6fa
+c1fd14dd-74f8-4d81-a43f-5020a3322149,Saksham Tyagi,1,https://musicbrainz.org/artist/c1fd14dd-74f8-4d81-a43f-5020a3322149,/artist/c1fd14dd-74f8-4d81-a43f-5020a3322149
+36df8e64-6ec6-4342-9045-e962ab9effb3,Clara Schumann,1,https://musicbrainz.org/artist/36df8e64-6ec6-4342-9045-e962ab9effb3,/artist/36df8e64-6ec6-4342-9045-e962ab9effb3
+3cd3882c-00f8-4362-a0c2-ad89ed248533,Robert Schumann,1,https://musicbrainz.org/artist/3cd3882c-00f8-4362-a0c2-ad89ed248533,/artist/3cd3882c-00f8-4362-a0c2-ad89ed248533
+4c8c4dcd-2a71-4d72-96bb-9cdede81fb58,Azeem Sheikh,1,https://musicbrainz.org/artist/4c8c4dcd-2a71-4d72-96bb-9cdede81fb58,/artist/4c8c4dcd-2a71-4d72-96bb-9cdede81fb58
+691b0e9d-9e57-41cf-932d-a3d21b068e75,Jean Sibelius,1,https://musicbrainz.org/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75,/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75
+6eb5695e-cf7b-4b94-b441-a09901127ef9,Bedřich Smetana,1,https://musicbrainz.org/artist/6eb5695e-cf7b-4b94-b441-a09901127ef9,/artist/6eb5695e-cf7b-4b94-b441-a09901127ef9
+39167298-62b9-4a1c-ac0d-2c203ede6fb3,Dame Ethel Smyth,1,https://musicbrainz.org/artist/39167298-62b9-4a1c-ac0d-2c203ede6fb3,/artist/39167298-62b9-4a1c-ac0d-2c203ede6fb3
+328e23ea-d79c-4c58-bd20-bbdd3f64bb8e,Louis Spohr,1,https://musicbrainz.org/artist/328e23ea-d79c-4c58-bd20-bbdd3f64bb8e,/artist/328e23ea-d79c-4c58-bd20-bbdd3f64bb8e
+8ba79080-dbea-411f-a380-702546b09f1e,Алексей Станчинский,1,https://musicbrainz.org/artist/8ba79080-dbea-411f-a380-702546b09f1e,/artist/8ba79080-dbea-411f-a380-702546b09f1e
+4b466f5e-4620-4084-8841-3fe4ea38e689,Arthur Sullivan,1,https://musicbrainz.org/artist/4b466f5e-4620-4084-8841-3fe4ea38e689,/artist/4b466f5e-4620-4084-8841-3fe4ea38e689
+674bd92f-24e5-45e8-8f6e-dc36bd64bae3,Mikyung Sung,1,https://musicbrainz.org/artist/674bd92f-24e5-45e8-8f6e-dc36bd64bae3,/artist/674bd92f-24e5-45e8-8f6e-dc36bd64bae3
+51bf1d24-7d3e-4ff9-8683-24a5ee0f0d70,Synergy,1,https://musicbrainz.org/artist/51bf1d24-7d3e-4ff9-8683-24a5ee0f0d70,/artist/51bf1d24-7d3e-4ff9-8683-24a5ee0f0d70
+e04ef24e-b64e-4ca5-a479-b6bc79042ff5,Karol Szymanowski,1,https://musicbrainz.org/artist/e04ef24e-b64e-4ca5-a479-b6bc79042ff5,/artist/e04ef24e-b64e-4ca5-a479-b6bc79042ff5
+480aa5f2-97e6-4e79-a364-6629d7b63b55,Sigismond Thalberg,1,https://musicbrainz.org/artist/480aa5f2-97e6-4e79-a364-6629d7b63b55,/artist/480aa5f2-97e6-4e79-a364-6629d7b63b55
+339496dc-9054-4984-8f8d-673647c8afe3,Charles Tournemire,1,https://musicbrainz.org/artist/339496dc-9054-4984-8f8d-673647c8afe3,/artist/339496dc-9054-4984-8f8d-673647c8afe3
+5e9177ed-7d3b-4344-b29f-ee4f63775ad1,Louis Vierne,1,https://musicbrainz.org/artist/5e9177ed-7d3b-4344-b29f-ee4f63775ad1,/artist/5e9177ed-7d3b-4344-b29f-ee4f63775ad1
+98d1fc33-b46b-4d46-8c7c-f76ce757884a,Jāzeps Vītols,1,https://musicbrainz.org/artist/98d1fc33-b46b-4d46-8c7c-f76ce757884a,/artist/98d1fc33-b46b-4d46-8c7c-f76ce757884a
+650bcc6c-61df-4136-a614-64caba859f9e,Vanessa Wagner,1,https://musicbrainz.org/artist/650bcc6c-61df-4136-a614-64caba859f9e,/artist/650bcc6c-61df-4136-a614-64caba859f9e
+7b72659f-6ecd-416d-8cca-2e8775878b25,José White Lafitte,1,https://musicbrainz.org/artist/7b72659f-6ecd-416d-8cca-2e8775878b25,/artist/7b72659f-6ecd-416d-8cca-2e8775878b25
+b1cf260d-0862-4e1b-91b8-7da537130261,Charles‐Marie Widor,1,https://musicbrainz.org/artist/b1cf260d-0862-4e1b-91b8-7da537130261,/artist/b1cf260d-0862-4e1b-91b8-7da537130261
+e52a39c9-31ca-410c-b9d7-5b4e189f2b4e,Willkend,1,https://musicbrainz.org/artist/e52a39c9-31ca-410c-b9d7-5b4e189f2b4e,/artist/e52a39c9-31ca-410c-b9d7-5b4e189f2b4e

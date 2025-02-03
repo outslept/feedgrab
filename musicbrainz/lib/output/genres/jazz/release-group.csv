@@ -1,0 +1,101 @@
+id,name,count,url,related
+8e8a594f-2175-38c7-a871-abb68ec363e7,Kind of Blue,27,https://musicbrainz.org/release-group/8e8a594f-2175-38c7-a871-abb68ec363e7,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+a9e30282-5b37-3f92-b897-b9659a1a312b,Bitches Brew,15,https://musicbrainz.org/release-group/a9e30282-5b37-3f92-b897-b9659a1a312b,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+12349ce8-2087-3d16-93da-70cd65621774,Blue Train,14,https://musicbrainz.org/release-group/12349ce8-2087-3d16-93da-70cd65621774,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+77cf47ba-58cd-3f3d-a5f9-79bf89860421,A Love Supreme,12,https://musicbrainz.org/release-group/77cf47ba-58cd-3f3d-a5f9-79bf89860421,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8,Come Away With Me,12,https://musicbrainz.org/release-group/6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8,/artist/985c709c-7771-4de3-9024-7bda29ebe3f9
+2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6,Giant Steps,12,https://musicbrainz.org/release-group/2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+903d5fe8-ab43-33b2-9411-6738af50de19,Birth of the Cool,11,https://musicbrainz.org/release-group/903d5fe8-ab43-33b2-9411-6738af50de19,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+cc0c7530-a135-3386-a682-0d33d14c876e,Miles Ahead,11,https://musicbrainz.org/release-group/cc0c7530-a135-3386-a682-0d33d14c876e,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+5d34c51d-f4cb-35b3-9138-142cfb8daa6b,Worlds,11,https://musicbrainz.org/release-group/5d34c51d-f4cb-35b3-9138-142cfb8daa6b,/artist/af4dbc51-3262-49b6-afe3-87bca818c2d1
+322f18bb-5491-38e9-9044-c0a468651eec,Head Hunters,10,https://musicbrainz.org/release-group/322f18bb-5491-38e9-9044-c0a468651eec,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+89896a3e-e309-3ed3-a1a9-36be29ae76b0,Milestones,10,https://musicbrainz.org/release-group/89896a3e-e309-3ed3-a1a9-36be29ae76b0,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+b60cdf20-74b7-3bed-b233-0f4818235895,My Favorite Things,10,https://musicbrainz.org/release-group/b60cdf20-74b7-3bed-b233-0f4818235895,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+eb84987d-15bd-3f69-bcd0-a0804c9d1130,Nefertiti,10,https://musicbrainz.org/release-group/eb84987d-15bd-3f69-bcd0-a0804c9d1130,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+1155e2ce-f1b2-394a-b23a-22406c8782a3,Not Too Late,10,https://musicbrainz.org/release-group/1155e2ce-f1b2-394a-b23a-22406c8782a3,/artist/985c709c-7771-4de3-9024-7bda29ebe3f9
+48070ee2-1865-3b11-ba36-360b1453a37a,The Black Saint and the Sinner Lady,10,https://musicbrainz.org/release-group/48070ee2-1865-3b11-ba36-360b1453a37a,/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f
+516d4629-7bf3-3ac3-907a-ed9a022db840,The Köln Concert,10,https://musicbrainz.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840,/artist/061c4920-3ea6-4835-98f6-02f3b82f5e3a
+9df09ba5-e7d9-334c-8c26-fef56a88d67a,Empyrean Isles,9,https://musicbrainz.org/release-group/9df09ba5-e7d9-334c-8c26-fef56a88d67a,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+966fede2-31b2-3b6a-ab50-4a650d3bb97d,Sketches of Spain,9,https://musicbrainz.org/release-group/966fede2-31b2-3b6a-ab50-4a650d3bb97d,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+495c22f5-90b3-3e87-8be1-2c55aef3ed82,Somethin' Else,9,https://musicbrainz.org/release-group/495c22f5-90b3-3e87-8be1-2c55aef3ed82,/artist/a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8
+4279baa0-5203-384a-8702-b3838bf6ec78,Workin’ With the Miles Davis Quintet,9,https://musicbrainz.org/release-group/4279baa0-5203-384a-8702-b3838bf6ec78,/artist/fe7245e7-d734-4ca1-8e26-691883f58201
+ec33b3fb-1d60-3c15-8990-7aa49e0844f0,Ballads,8,https://musicbrainz.org/release-group/ec33b3fb-1d60-3c15-8990-7aa49e0844f0,/artist/a43270af-bc4a-4552-847e-617b11f38d7b
+6a8ec885-544e-3b31-859a-a73289a01421,Ella and Louis,8,https://musicbrainz.org/release-group/6a8ec885-544e-3b31-859a-a73289a01421,/artist/54799c0e-eb45-4eea-996d-c4d71a63c499
+4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c,"Genius of Modern Music, Volume 1",8,https://musicbrainz.org/release-group/4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c,/artist/8e8c7417-c905-46b1-b42a-5260b4274ed4
+8ed94489-830c-3a86-9772-f9a84354ff43,Hand on the Torch,8,https://musicbrainz.org/release-group/8ed94489-830c-3a86-9772-f9a84354ff43,/artist/b370defd-86cc-42f3-85b4-7c2a8305c04a
+346b2263-a899-3d3e-8b08-84efe58dfe10,Jaco Pastorius,8,https://musicbrainz.org/release-group/346b2263-a899-3d3e-8b08-84efe58dfe10,/artist/46a6fac0-2e14-4214-b08e-3bdb1cffa5aa
+6324bb2f-8ff2-31f1-990d-cc6afc2d6614,John Coltrane and Johnny Hartman,8,https://musicbrainz.org/release-group/6324bb2f-8ff2-31f1-990d-cc6afc2d6614,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+e809b0f3-5683-3248-b39a-e7ee8e86d2d9,Moanin’,8,https://musicbrainz.org/release-group/e809b0f3-5683-3248-b39a-e7ee8e86d2d9,/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+e285145e-b013-3290-a3c9-3b9a70c044e2,Quiet Songs,8,https://musicbrainz.org/release-group/e285145e-b013-3290-a3c9-3b9a70c044e2,/artist/d61d8910-163c-4ccf-a9cf-0ccaaa7ba978
+7f5e9a98-d9db-3310-ad31-12e5593f3c9b,Someday My Prince Will Come,8,https://musicbrainz.org/release-group/7f5e9a98-d9db-3310-ad31-12e5593f3c9b,/artist/f137837b-fa55-48d1-8c85-f13961b3ac77
+6dfdcee4-e97c-3485-80e0-3f54b6e54991,The Girl in the Other Room,8,https://musicbrainz.org/release-group/6dfdcee4-e97c-3485-80e0-3f54b6e54991,/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
+1e482680-d0b1-3ed1-9de7-2e3c7649f956,The Look of Love,8,https://musicbrainz.org/release-group/1e482680-d0b1-3ed1-9de7-2e3c7649f956,/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
+035a7881-3e2c-39d2-b110-fe26a4de94e5,Time Out,8,https://musicbrainz.org/release-group/035a7881-3e2c-39d2-b110-fe26a4de94e5,/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
+02f1069d-bf57-312b-9d2e-519b0e4366f6,When I Look in Your Eyes,8,https://musicbrainz.org/release-group/02f1069d-bf57-312b-9d2e-519b0e4366f6,/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
+6477da93-2286-4919-a898-031caa34c307,’Round About Midnight,7,https://musicbrainz.org/release-group/6477da93-2286-4919-a898-031caa34c307,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+c5bfc8df-ca3a-3cd1-a8b7-b453e023a84c,Ascenseur pour l’échafaud,7,https://musicbrainz.org/release-group/c5bfc8df-ca3a-3cd1-a8b7-b453e023a84c,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+f9aab952-b2c7-3f31-ad82-5cab900e834b,Coltrane Plays the Blues,7,https://musicbrainz.org/release-group/f9aab952-b2c7-3f31-ad82-5cab900e834b,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+933c977e-8312-353e-b4ef-55d0dd90bd30,Dig,7,https://musicbrainz.org/release-group/933c977e-8312-353e-b4ef-55d0dd90bd30,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+689db471-1647-3d0f-a6b8-2e776cf913e8,Feels Like Home,7,https://musicbrainz.org/release-group/689db471-1647-3d0f-a6b8-2e776cf913e8,/artist/985c709c-7771-4de3-9024-7bda29ebe3f9
+82fd3ab5-0fc9-3a36-8832-65afaf05c2fe,Filles de Kilimanjaro,7,https://musicbrainz.org/release-group/82fd3ab5-0fc9-3a36-8832-65afaf05c2fe,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+b248d212-aace-3c3e-a23d-e13aaac1f87a,Getz/Gilberto,7,https://musicbrainz.org/release-group/b248d212-aace-3c3e-a23d-e13aaac1f87a,/artist/8f2422ab-0ec6-4c92-80c4-afe9622fab32
+cb6ef28b-5ba3-33b2-ac1b-76261a088794,John Coltrane with the Red Garland Trio,7,https://musicbrainz.org/release-group/cb6ef28b-5ba3-33b2-ac1b-76261a088794,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+3e756ef5-ffa4-3d48-83ae-f7f856a2b989,Nina Simone Sings the Blues,7,https://musicbrainz.org/release-group/3e756ef5-ffa4-3d48-83ae-f7f856a2b989,/artist/2944824d-4c26-476f-a981-be849081942f
+074888c4-8d51-327b-a61c-46916453046a,Speak Like a Child,7,https://musicbrainz.org/release-group/074888c4-8d51-327b-a61c-46916453046a,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+79a8fca9-2678-3c9c-a18f-b6f715d2375d,Sunday at the Village Vanguard,7,https://musicbrainz.org/release-group/79a8fca9-2678-3c9c-a18f-b6f715d2375d,/artist/d0630a08-3b40-4cb4-9f48-7d525262c1f6
+b481d115-5b42-316b-a525-c669c762c73b,Takin’ Off,7,https://musicbrainz.org/release-group/b481d115-5b42-316b-a525-c669c762c73b,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+c8b9397f-405f-399b-892c-99f56bfbd104,The Complete Bitches Brew Sessions,7,https://musicbrainz.org/release-group/c8b9397f-405f-399b-892c-99f56bfbd104,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+5879cfca-e1d0-3ef4-8014-3b284832ed18,The Shape of Jazz to Come,7,https://musicbrainz.org/release-group/5879cfca-e1d0-3ef4-8014-3b284832ed18,/artist/169c0d1b-fcb8-4a43-9097-829aa7b39205
+63c29e2d-69d4-3b99-9658-9e2dcb20fa6c,We Get Requests,7,https://musicbrainz.org/release-group/63c29e2d-69d4-3b99-9658-9e2dcb20fa6c,/artist/b083ec9b-27e0-4fda-801d-cb40861a0578
+25a721dc-0940-359e-8b0d-4be9d5616348,Bags’ Groove,6,https://musicbrainz.org/release-group/25a721dc-0940-359e-8b0d-4be9d5616348,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+c06d6702-eacb-324b-b9fd-d19c8331e178,Birds of Fire,6,https://musicbrainz.org/release-group/c06d6702-eacb-324b-b9fd-d19c8331e178,/artist/a2be74f5-0735-46f7-a295-7e41aab30029
+9e874890-d5fc-3ba3-95ba-35420c6a1d00,Call Off the Search,6,https://musicbrainz.org/release-group/9e874890-d5fc-3ba3-95ba-35420c6a1d00,/artist/39e32995-6515-40b2-a6f0-841524047edc
+6482fdfd-5db6-3fd4-9db3-f0efbf169ced,Cookin’ With the Miles Davis Quintet,6,https://musicbrainz.org/release-group/6482fdfd-5db6-3fd4-9db3-f0efbf169ced,/artist/fe7245e7-d734-4ca1-8e26-691883f58201
+eab35e92-f601-37b6-a94b-a31e6dfc1185,Crescent,6,https://musicbrainz.org/release-group/eab35e92-f601-37b6-a94b-a31e6dfc1185,/artist/a43270af-bc4a-4552-847e-617b11f38d7b
+b7afc7b8-e9be-3287-8f64-62e211f64981,Crossings,6,https://musicbrainz.org/release-group/b7afc7b8-e9be-3287-8f64-62e211f64981,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+4f64c4fc-1de9-3b28-970c-e86f78c631be,Duke Ellington & John Coltrane,6,https://musicbrainz.org/release-group/4f64c4fc-1de9-3b28-970c-e86f78c631be,/artist/3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
+0bbc462f-554b-3cc3-b4c5-a78c6a313d5a,Duke Ellington Meets Coleman Hawkins,6,https://musicbrainz.org/release-group/0bbc462f-554b-3cc3-b4c5-a78c6a313d5a,/artist/3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
+ebc5d7cd-63eb-3030-8fda-2f5cf27b1ba5,E.S.P.,6,https://musicbrainz.org/release-group/ebc5d7cd-63eb-3030-8fda-2f5cf27b1ba5,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+4e1d1c5a-20db-330a-87fe-59a1278e0cdc,Half the Perfect World,6,https://musicbrainz.org/release-group/4e1d1c5a-20db-330a-87fe-59a1278e0cdc,/artist/7f260b9c-bea7-469b-9ba8-0daec7d2c85c
+125b9edd-2754-3a86-ac27-9633146d82e9,Hub-Tones,6,https://musicbrainz.org/release-group/125b9edd-2754-3a86-ac27-9633146d82e9,/artist/59ae7a1a-f454-435b-8a5a-e327e692bb5a
+cf7bc239-a3ba-3d87-80e5-261f750cb560,Lady in Satin,6,https://musicbrainz.org/release-group/cf7bc239-a3ba-3d87-80e5-261f750cb560,/artist/d59c4cda-11d9-48db-8bfe-b557ee602aed
+8942b8e6-e084-3373-9d0c-cd9577c3695a,Les Triomphes du jazz,6,https://musicbrainz.org/release-group/8942b8e6-e084-3373-9d0c-cd9577c3695a,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+74cd52d0-d51e-3915-991b-56ea216ca79c,Live at Birdland,6,https://musicbrainz.org/release-group/74cd52d0-d51e-3915-991b-56ea216ca79c,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+105ad848-00d2-39c4-8f0f-5a1b426358cd,Live‐Evil,6,https://musicbrainz.org/release-group/105ad848-00d2-39c4-8f0f-5a1b426358cd,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+711ef782-d201-345e-916c-1d1b15f06e24,Lush Life,6,https://musicbrainz.org/release-group/711ef782-d201-345e-916c-1d1b15f06e24,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+06d984b6-d02a-30a6-a239-99b6702de04f,Michael Bublé,6,https://musicbrainz.org/release-group/06d984b6-d02a-30a6-a239-99b6702de04f,/artist/611700cf-27f0-4dc9-ae80-c513a767853e
+88861537-d884-370c-800d-7b4a7aed782c,Midnight Blue,6,https://musicbrainz.org/release-group/88861537-d884-370c-800d-7b4a7aed782c,/artist/a85b66d2-34df-4d5a-8c0d-d585b8a14ce1
+48ec720b-2fc2-35dd-8130-5b186c4abcbc,Mingus Ah Um,6,https://musicbrainz.org/release-group/48ec720b-2fc2-35dd-8130-5b186c4abcbc,/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f
+e592af5d-94e1-33a5-bc42-2a500a818c92,Monk’s Dream,6,https://musicbrainz.org/release-group/e592af5d-94e1-33a5-bc42-2a500a818c92,/artist/1cbe3eea-4671-452a-9265-7ef1ef9d8d2e
+6827887f-d53d-3c73-b63f-155379cc005c,Mwandishi,6,https://musicbrainz.org/release-group/6827887f-d53d-3c73-b63f-155379cc005c,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+34d2108b-d622-3fb3-8209-858429524f71,My Way: The Best of Frank Sinatra,6,https://musicbrainz.org/release-group/34d2108b-d622-3fb3-8209-858429524f71,/artist/197450cd-0124-4164-b723-3c22dd16494d
+9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e,Night Train,6,https://musicbrainz.org/release-group/9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e,/artist/b083ec9b-27e0-4fda-801d-cb40861a0578
+9ba035a7-3f7c-3d96-9e07-0e0d45af41af,Olé Coltrane,6,https://musicbrainz.org/release-group/9ba035a7-3f7c-3d96-9e07-0e0d45af41af,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+70f3e516-4e76-3dc5-a261-e6c5cd6d71a1,Porgy and Bess,6,https://musicbrainz.org/release-group/70f3e516-4e76-3dc5-a261-e6c5cd6d71a1,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+afb1433e-c8b6-3924-8798-c494a3040346,Relaxin’ With the Miles Davis Quintet,6,https://musicbrainz.org/release-group/afb1433e-c8b6-3924-8798-c494a3040346,/artist/fe7245e7-d734-4ca1-8e26-691883f58201
+3c17dc33-ff39-3ac0-a190-847f42e4d03c,Sorcerer,6,https://musicbrainz.org/release-group/3c17dc33-ff39-3ac0-a190-847f42e4d03c,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+f0b72e4b-e2af-32e5-aa4a-5005deb2db17,Steamin’ With the Miles Davis Quintet,6,https://musicbrainz.org/release-group/f0b72e4b-e2af-32e5-aa4a-5005deb2db17,/artist/fe7245e7-d734-4ca1-8e26-691883f58201
+c1f57516-566f-4e87-af62-f39a26a39ad1,The Absence,6,https://musicbrainz.org/release-group/c1f57516-566f-4e87-af62-f39a26a39ad1,/artist/c47267ed-7482-40bb-a4ea-e1399cc8ce04
+34887975-3564-3094-831f-2476fe3b64e9,The Amazing Bud Powell,6,https://musicbrainz.org/release-group/34887975-3564-3094-831f-2476fe3b64e9,/artist/dbc5809c-7837-4b6f-961e-340d64fbb41c
+15648ff4-869b-3238-a28c-3ced36a39f89,The Complete In a Silent Way Sessions,6,https://musicbrainz.org/release-group/15648ff4-869b-3238-a28c-3ced36a39f89,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+64772ab9-73e5-3627-b784-2a814932a4e5,The Complete Jack Johnson Sessions,6,https://musicbrainz.org/release-group/64772ab9-73e5-3627-b784-2a814932a4e5,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+a7040adf-9e03-37aa-8ac2-0c98d140af30,The Girl from Ipanema: The Bossa Nova Years,6,https://musicbrainz.org/release-group/a7040adf-9e03-37aa-8ac2-0c98d140af30,/artist/8f2422ab-0ec6-4c92-80c4-afe9622fab32
+7111ef27-de81-378b-8f37-2215601f6e2f,The Prisoner,6,https://musicbrainz.org/release-group/7111ef27-de81-378b-8f37-2215601f6e2f,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+e4bd9276-84c9-3c90-8c90-7797f487fc8d,Thrust,6,https://musicbrainz.org/release-group/e4bd9276-84c9-3c90-8c90-7797f487fc8d,/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
+44a7c417-f4ce-31d3-9e81-2f370126526f,Tutu,6,https://musicbrainz.org/release-group/44a7c417-f4ce-31d3-9e81-2f370126526f,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+392e7fcf-5ae9-37f6-b8c9-57901cfbee1f,Waltz for Debby,6,https://musicbrainz.org/release-group/392e7fcf-5ae9-37f6-b8c9-57901cfbee1f,/artist/d0630a08-3b40-4cb4-9f48-7d525262c1f6
+d68d17f9-78cf-3629-abbd-d721301dc812,"""Live"" at the Village Vanguard",5,https://musicbrainz.org/release-group/d68d17f9-78cf-3629-abbd-d721301dc812,/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
+b6b1c43f-71be-4865-8472-3a55a1d9fb9b,A Charlie Brown Christmas: The Original Sound Track Recording of the CBS Television Special,5,https://musicbrainz.org/release-group/b6b1c43f-71be-4865-8472-3a55a1d9fb9b,/artist/744b52c8-509b-4451-abfd-a17d18d4bd1d
+de5e3956-f770-4734-a205-d91cbaccf76c,A Humdrum Star,5,https://musicbrainz.org/release-group/de5e3956-f770-4734-a205-d91cbaccf76c,/artist/b328de0e-ee48-4d74-9d36-7c7ee16ffc69
+86ee6a37-c44d-372d-b9d0-a03e07e2db06,A Night in Tunisia,5,https://musicbrainz.org/release-group/86ee6a37-c44d-372d-b9d0-a03e07e2db06,/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+0da774d3-40be-3971-bb40-68361009a3b4,Africa/Brass,5,https://musicbrainz.org/release-group/0da774d3-40be-3971-bb40-68361009a3b4,/artist/a43270af-bc4a-4552-847e-617b11f38d7b
+31b0b13b-2348-3b41-9431-7b08a73231bc,All for You: A Dedication to the Nat King Cole Trio,5,https://musicbrainz.org/release-group/31b0b13b-2348-3b41-9431-7b08a73231bc,/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
+bae9e6bd-cb30-3207-84db-e908e9d9dc5c,April in Paris,5,https://musicbrainz.org/release-group/bae9e6bd-cb30-3207-84db-e908e9d9dc5c,/artist/885f0f99-e945-4181-9990-bff2762ef9b8
+a56fd263-6b33-317b-9daa-cec9ac7f8283,Art Blakey!!!!! Jazz Messengers!!!!!,5,https://musicbrainz.org/release-group/a56fd263-6b33-317b-9daa-cec9ac7f8283,/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+563ecf11-68d5-34d8-8c29-fadfd5975c99,At Newport 1958,5,https://musicbrainz.org/release-group/563ecf11-68d5-34d8-8c29-fadfd5975c99,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+86ba50d8-ff17-3b8e-94a8-08e02e6926fa,Back to Back: Duke Ellington and Johnny Hodges Play the Blues,5,https://musicbrainz.org/release-group/86ba50d8-ff17-3b8e-94a8-08e02e6926fa,/artist/3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
+45536412-c62c-34fc-9524-0bac1d2542c1,Baduizm,5,https://musicbrainz.org/release-group/45536412-c62c-34fc-9524-0bac1d2542c1,/artist/321531fc-db73-4ffa-a959-61a61a2908c1
+ecf84557-0084-3f60-9510-a2e63cc8088e,Beyond the Missouri Sky (Short Stories),5,https://musicbrainz.org/release-group/ecf84557-0084-3f60-9510-a2e63cc8088e,/artist/1f0cdc02-c8d5-4228-8227-37ec0c289b48
+c00632c9-c7fd-3b30-b982-f345750b7615,Big Band Bossa Nova,5,https://musicbrainz.org/release-group/c00632c9-c7fd-3b30-b982-f345750b7615,/artist/5803c81e-739a-4057-9a5c-cf84e55db630
+fdc36195-6677-3f29-aab3-22f847d207ed,Black Beauty: Miles Davis at Fillmore West,5,https://musicbrainz.org/release-group/fdc36195-6677-3f29-aab3-22f847d207ed,/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
+f69dc17c-6931-4c28-b5d6-57f55ab372cb,Blowin' the Blues Away,5,https://musicbrainz.org/release-group/f69dc17c-6931-4c28-b5d6-57f55ab372cb,/artist/e9ac5139-2da0-4f00-9ac2-c713e3813ff4

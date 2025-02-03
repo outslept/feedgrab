@@ -1,0 +1,101 @@
+id,name,count,url,related
+d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,Johnny Cash,24,https://musicbrainz.org/artist/d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,/artist/d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+20244d07-534f-4eff-b4d4-930878889970,Taylor Swift,20,https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970,/artist/20244d07-534f-4eff-b4d4-930878889970
+1d543e07-d0d2-4834-a8db-d65c50c2a856,Dolly Parton,10,https://musicbrainz.org/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856,/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856
+4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c,Miranda Lambert,8,https://musicbrainz.org/artist/4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c,/artist/4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c
+6cfd7ffc-824f-4219-8e27-4b9417700f44,Brad Paisley,8,https://musicbrainz.org/artist/6cfd7ffc-824f-4219-8e27-4b9417700f44,/artist/6cfd7ffc-824f-4219-8e27-4b9417700f44
+faabb55d-3c9e-4c23-8779-732ac2ee2c0d,Shania Twain,8,https://musicbrainz.org/artist/faabb55d-3c9e-4c23-8779-732ac2ee2c0d,/artist/faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+7ac055fa-e357-4890-9098-010b8094a900,Alabama,7,https://musicbrainz.org/artist/7ac055fa-e357-4890-9098-010b8094a900,/artist/7ac055fa-e357-4890-9098-010b8094a900
+5dca4d22-d6c8-4e70-8ca1-4543e43353c7,Kenny Chesney,7,https://musicbrainz.org/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+3248ed2d-bada-41b5-a7b6-ac88faa1f1ac,The Chicks,7,https://musicbrainz.org/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac,/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+613260c3-d620-4645-94cd-33cd55f29b1e,Loretta Lynn,7,https://musicbrainz.org/artist/613260c3-d620-4645-94cd-33cd55f29b1e,/artist/613260c3-d620-4645-94cd-33cd55f29b1e
+7291957b-c463-4275-a41c-a104c9e2337f,Alan Jackson,6,https://musicbrainz.org/artist/7291957b-c463-4275-a41c-a104c9e2337f,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+1a46826b-4d73-4e04-8590-f36c9d832f9e,Waylon Jennings,6,https://musicbrainz.org/artist/1a46826b-4d73-4e04-8590-f36c9d832f9e,/artist/1a46826b-4d73-4e04-8590-f36c9d832f9e
+2f951906-5629-4fef-a260-5033151c162a,Toby Keith,6,https://musicbrainz.org/artist/2f951906-5629-4fef-a260-5033151c162a,/artist/2f951906-5629-4fef-a260-5033151c162a
+b0a55bd8-60c7-45c1-b78e-f20e4c8adba1,Martina McBride,6,https://musicbrainz.org/artist/b0a55bd8-60c7-45c1-b78e-f20e4c8adba1,/artist/b0a55bd8-60c7-45c1-b78e-f20e4c8adba1
+7e5cfc9a-e9e1-46f1-b81a-861b12049488,Tim McGraw,6,https://musicbrainz.org/artist/7e5cfc9a-e9e1-46f1-b81a-861b12049488,/artist/7e5cfc9a-e9e1-46f1-b81a-861b12049488
+c3d14b41-a48d-488f-bfed-ce0597bb0b1f,Kenny Rogers,6,https://musicbrainz.org/artist/c3d14b41-a48d-488f-bfed-ce0597bb0b1f,/artist/c3d14b41-a48d-488f-bfed-ce0597bb0b1f
+70f0e309-5418-49b6-a130-666e2f76eecd,Carrie Underwood,6,https://musicbrainz.org/artist/70f0e309-5418-49b6-a130-666e2f76eecd,/artist/70f0e309-5418-49b6-a130-666e2f76eecd
+906bddec-bc73-49f8-ac1e-eaee691c6cf9,Hank Williams,6,https://musicbrainz.org/artist/906bddec-bc73-49f8-ac1e-eaee691c6cf9,/artist/906bddec-bc73-49f8-ac1e-eaee691c6cf9
+b76645c5-78b0-4e4c-8f95-003f40013a45,Garth Brooks,5,https://musicbrainz.org/artist/b76645c5-78b0-4e4c-8f95-003f40013a45,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+57976431-1a5c-4968-a422-b92c5e9b0d4f,Glen Campbell,5,https://musicbrainz.org/artist/57976431-1a5c-4968-a422-b92c5e9b0d4f,/artist/57976431-1a5c-4968-a422-b92c5e9b0d4f
+34e10b51-b5c6-4bc1-b70e-f05f141eda1e,John Denver,5,https://musicbrainz.org/artist/34e10b51-b5c6-4bc1-b70e-f05f141eda1e,/artist/34e10b51-b5c6-4bc1-b70e-f05f141eda1e
+773af101-792f-48b8-a588-09a07cff5e53,Sara Evans,5,https://musicbrainz.org/artist/773af101-792f-48b8-a588-09a07cff5e53,/artist/773af101-792f-48b8-a588-09a07cff5e53
+406552d4-5ba1-4226-b7c0-367bc50fc767,Faith Hill,5,https://musicbrainz.org/artist/406552d4-5ba1-4226-b7c0-367bc50fc767,/artist/406552d4-5ba1-4226-b7c0-367bc50fc767
+3ec17e85-9284-4f4c-8831-4e56c2354cdb,Reba McEntire,5,https://musicbrainz.org/artist/3ec17e85-9284-4f4c-8831-4e56c2354cdb,/artist/3ec17e85-9284-4f4c-8831-4e56c2354cdb
+668fd73c-bf54-4310-a139-305517f05311,Willie Nelson,5,https://musicbrainz.org/artist/668fd73c-bf54-4310-a139-305517f05311,/artist/668fd73c-bf54-4310-a139-305517f05311
+01809552-4f87-45b0-afff-2c6f0730a3be,Elvis Presley,5,https://musicbrainz.org/artist/01809552-4f87-45b0-afff-2c6f0730a3be,/artist/01809552-4f87-45b0-afff-2c6f0730a3be
+9092d8e1-9b38-4372-a96d-000b8561a8bc,LeAnn Rimes,5,https://musicbrainz.org/artist/9092d8e1-9b38-4372-a96d-000b8561a8bc,/artist/9092d8e1-9b38-4372-a96d-000b8561a8bc
+d211333a-22eb-4be7-a2ac-ca12c73646db,Gary Allan,4,https://musicbrainz.org/artist/d211333a-22eb-4be7-a2ac-ca12c73646db,/artist/d211333a-22eb-4be7-a2ac-ca12c73646db
+6bd7faa9-601f-44db-a2a6-239209f83156,Dierks Bentley,4,https://musicbrainz.org/artist/6bd7faa9-601f-44db-a2a6-239209f83156,/artist/6bd7faa9-601f-44db-a2a6-239209f83156
+f30118c5-f783-4969-8427-f3c096378267,Brooks & Dunn,4,https://musicbrainz.org/artist/f30118c5-f783-4969-8427-f3c096378267,/artist/f30118c5-f783-4969-8427-f3c096378267
+16fdd9af-467f-47ce-bd29-3413b445b90f,Jimmy Buffett,4,https://musicbrainz.org/artist/16fdd9af-467f-47ce-bd29-3413b445b90f,/artist/16fdd9af-467f-47ce-bd29-3413b445b90f
+15856215-cc51-4423-879c-9ac955ccb11a,Eric Church,4,https://musicbrainz.org/artist/15856215-cc51-4423-879c-9ac955ccb11a,/artist/15856215-cc51-4423-879c-9ac955ccb11a
+d1da3f8d-3b16-468f-a1b2-9a8d9b138bc6,Diamond Rio,4,https://musicbrainz.org/artist/d1da3f8d-3b16-468f-a1b2-9a8d9b138bc6,/artist/d1da3f8d-3b16-468f-a1b2-9a8d9b138bc6
+ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3,Vince Gill,4,https://musicbrainz.org/artist/ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3,/artist/ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3
+f2903be0-79a7-4334-8cc5-e45309482a97,George Jones,4,https://musicbrainz.org/artist/f2903be0-79a7-4334-8cc5-e45309482a97,/artist/f2903be0-79a7-4334-8cc5-e45309482a97
+0eedfc95-e79a-4fd9-832a-cd816a0b3fda,Lady A,4,https://musicbrainz.org/artist/0eedfc95-e79a-4fd9-832a-cd816a0b3fda,/artist/0eedfc95-e79a-4fd9-832a-cd816a0b3fda
+e6cb4a73-6253-41c9-9450-f1862d30584e,Patty Loveless,4,https://musicbrainz.org/artist/e6cb4a73-6253-41c9-9450-f1862d30584e,/artist/e6cb4a73-6253-41c9-9450-f1862d30584e
+1415b94a-ae0d-4918-9100-1943e8227f1b,Craig Morgan,4,https://musicbrainz.org/artist/1415b94a-ae0d-4918-9100-1943e8227f1b,/artist/1415b94a-ae0d-4918-9100-1943e8227f1b
+5f2dc270-3205-4aef-a8ea-119fb8b87294,Lorrie Morgan,4,https://musicbrainz.org/artist/5f2dc270-3205-4aef-a8ea-119fb8b87294,/artist/5f2dc270-3205-4aef-a8ea-119fb8b87294
+e45692e4-69f6-4493-888b-7ab89d21d0a4,Joe Nichols,4,https://musicbrainz.org/artist/e45692e4-69f6-4493-888b-7ab89d21d0a4,/artist/e45692e4-69f6-4493-888b-7ab89d21d0a4
+6e0ae159-8449-4262-bba5-18ec87fa529f,Rascal Flatts,4,https://musicbrainz.org/artist/6e0ae159-8449-4262-bba5-18ec87fa529f,/artist/6e0ae159-8449-4262-bba5-18ec87fa529f
+2c2add7c-9a99-4812-a20e-870d331f01fd,Marty Robbins,4,https://musicbrainz.org/artist/2c2add7c-9a99-4812-a20e-870d331f01fd,/artist/2c2add7c-9a99-4812-a20e-870d331f01fd
+1b69a7bc-7563-4aaf-a859-8b6050a7a0f2,Sawyer Brown,4,https://musicbrainz.org/artist/1b69a7bc-7563-4aaf-a859-8b6050a7a0f2,/artist/1b69a7bc-7563-4aaf-a859-8b6050a7a0f2
+2ad66473-ccb3-41d2-8756-b56680cdfe62,Blake Shelton,4,https://musicbrainz.org/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+5ab2cf34-517e-48eb-b3a5-34e1cbcd600a,George Strait,4,https://musicbrainz.org/artist/5ab2cf34-517e-48eb-b3a5-34e1cbcd600a,/artist/5ab2cf34-517e-48eb-b3a5-34e1cbcd600a
+59e22818-9da1-42be-bdd6-b1124b4a67b9,Aaron Tippin,4,https://musicbrainz.org/artist/59e22818-9da1-42be-bdd6-b1124b4a67b9,/artist/59e22818-9da1-42be-bdd6-b1124b4a67b9
+09b697e3-a849-4670-ae49-e0b821a6271a,Randy Travis,4,https://musicbrainz.org/artist/09b697e3-a849-4670-ae49-e0b821a6271a,/artist/09b697e3-a849-4670-ae49-e0b821a6271a
+3c418647-3aa0-4f0b-b043-306f47855f52,Josh Turner,4,https://musicbrainz.org/artist/3c418647-3aa0-4f0b-b043-306f47855f52,/artist/3c418647-3aa0-4f0b-b043-306f47855f52
+f45da029-7b00-4bf3-962c-0eeb20309cc4,Keith Urban,4,https://musicbrainz.org/artist/f45da029-7b00-4bf3-962c-0eeb20309cc4,/artist/f45da029-7b00-4bf3-962c-0eeb20309cc4
+11d9fc14-e6ac-4c50-81e7-062dd82566ce,Gretchen Wilson,4,https://musicbrainz.org/artist/11d9fc14-e6ac-4c50-81e7-062dd82566ce,/artist/11d9fc14-e6ac-4c50-81e7-062dd82566ce
+16c5bb7a-35b7-418d-880e-7ed3399f1b40,Lee Ann Womack,4,https://musicbrainz.org/artist/16c5bb7a-35b7-418d-880e-7ed3399f1b40,/artist/16c5bb7a-35b7-418d-880e-7ed3399f1b40
+0be325a6-3c6d-4e3a-97ed-e59539b1014f,Trisha Yearwood,4,https://musicbrainz.org/artist/0be325a6-3c6d-4e3a-97ed-e59539b1014f,/artist/0be325a6-3c6d-4e3a-97ed-e59539b1014f
+3dc9c919-508f-4255-b05e-0eed6a28137d,Trace Adkins,3,https://musicbrainz.org/artist/3dc9c919-508f-4255-b05e-0eed6a28137d,/artist/3dc9c919-508f-4255-b05e-0eed6a28137d
+f24df11a-7e35-4979-a4db-a3b2a170ce27,Jason Aldean,3,https://musicbrainz.org/artist/f24df11a-7e35-4979-a4db-a3b2a170ce27,/artist/f24df11a-7e35-4979-a4db-a3b2a170ce27
+5810667a-9db6-4fd0-abac-667cdac5d415,Chet Atkins,3,https://musicbrainz.org/artist/5810667a-9db6-4fd0-abac-667cdac5d415,/artist/5810667a-9db6-4fd0-abac-667cdac5d415
+675b7627-6b5d-4a46-a728-785cb24a299e,Gene Autry,3,https://musicbrainz.org/artist/675b7627-6b5d-4a46-a728-785cb24a299e,/artist/675b7627-6b5d-4a46-a728-785cb24a299e
+779d1126-e48c-43f2-8b51-005f3b116d7e,Kelsea Ballerini,3,https://musicbrainz.org/artist/779d1126-e48c-43f2-8b51-005f3b116d7e,/artist/779d1126-e48c-43f2-8b51-005f3b116d7e
+28955336-2348-488a-9381-e3a7b0107343,The Band Perry,3,https://musicbrainz.org/artist/28955336-2348-488a-9381-e3a7b0107343,/artist/28955336-2348-488a-9381-e3a7b0107343
+dcd522c9-ac64-4c53-b080-6aab4abf2b44,Clint Black,3,https://musicbrainz.org/artist/dcd522c9-ac64-4c53-b080-6aab4abf2b44,/artist/dcd522c9-ac64-4c53-b080-6aab4abf2b44
+51e90731-08c0-4f60-89b6-5b78e5844de8,Zach Bryan,3,https://musicbrainz.org/artist/51e90731-08c0-4f60-89b6-5b78e5844de8,/artist/51e90731-08c0-4f60-89b6-5b78e5844de8
+533aaba8-82a2-451b-a99b-a24392696543,Chris Cagle,3,https://musicbrainz.org/artist/533aaba8-82a2-451b-a99b-a24392696543,/artist/533aaba8-82a2-451b-a99b-a24392696543
+ba1bf556-2af2-4772-835f-ed2e15070758,Mary Chapin Carpenter,3,https://musicbrainz.org/artist/ba1bf556-2af2-4772-835f-ed2e15070758,/artist/ba1bf556-2af2-4772-835f-ed2e15070758
+60c143b1-f1c1-404b-a674-ce51a05f022c,Carter Faith,3,https://musicbrainz.org/artist/60c143b1-f1c1-404b-a674-ce51a05f022c,/artist/60c143b1-f1c1-404b-a674-ce51a05f022c
+4e1f5310-f9bf-4862-a73c-d7fe60cbc4d6,Mark Chesnutt,3,https://musicbrainz.org/artist/4e1f5310-f9bf-4862-a73c-d7fe60cbc4d6,/artist/4e1f5310-f9bf-4862-a73c-d7fe60cbc4d6
+35885131-9d16-40cb-9289-e18997a8b77c,The Charlie Daniels Band,3,https://musicbrainz.org/artist/35885131-9d16-40cb-9289-e18997a8b77c,/artist/35885131-9d16-40cb-9289-e18997a8b77c
+e62becdf-2d36-478e-be2b-a9772d78db06,Billy Dean,3,https://musicbrainz.org/artist/e62becdf-2d36-478e-be2b-a9772d78db06,/artist/e62becdf-2d36-478e-be2b-a9772d78db06
+b4375768-3c8b-46e7-b578-c920ccfe725f,The Flying Burrito Brothers,3,https://musicbrainz.org/artist/b4375768-3c8b-46e7-b578-c920ccfe725f,/artist/b4375768-3c8b-46e7-b578-c920ccfe725f
+deb2448c-6fdf-4d31-921e-757630515dbd,Merle Haggard,3,https://musicbrainz.org/artist/deb2448c-6fdf-4d31-921e-757630515dbd,/artist/deb2448c-6fdf-4d31-921e-757630515dbd
+c685765c-b778-4ed6-9035-8f7088431765,The Highwaymen,3,https://musicbrainz.org/artist/c685765c-b778-4ed6-9035-8f7088431765,/artist/c685765c-b778-4ed6-9035-8f7088431765
+ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,Kid Rock,3,https://musicbrainz.org/artist/ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,/artist/ad0ecd8b-805e-406e-82cb-5b00c3a3a29e
+b91c664b-5eee-4536-8b70-b1f2be519ac0,Alison Krauss & Union Station,3,https://musicbrainz.org/artist/b91c664b-5eee-4536-8b70-b1f2be519ac0,/artist/b91c664b-5eee-4536-8b70-b1f2be519ac0
+cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81,Kris Kristofferson,3,https://musicbrainz.org/artist/cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81,/artist/cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81
+56ff58b3-7a73-4c02-a0ae-70bebf3354f2,Tracy Lawrence,3,https://musicbrainz.org/artist/56ff58b3-7a73-4c02-a0ae-70bebf3354f2,/artist/56ff58b3-7a73-4c02-a0ae-70bebf3354f2
+76e78b58-f301-4975-8058-7f84d8360738,Little Big Town,3,https://musicbrainz.org/artist/76e78b58-f301-4975-8058-7f84d8360738,/artist/76e78b58-f301-4975-8058-7f84d8360738
+407592bd-6b6e-4803-80fd-f17e59446734,Lonestar,3,https://musicbrainz.org/artist/407592bd-6b6e-4803-80fd-f17e59446734,/artist/407592bd-6b6e-4803-80fd-f17e59446734
+2546bbcd-01b9-481f-95e0-81bdd821f823,Corb Lund,3,https://musicbrainz.org/artist/2546bbcd-01b9-481f-95e0-81bdd821f823,/artist/2546bbcd-01b9-481f-95e0-81bdd821f823
+64f8c7a9-1074-4ab7-bb2c-8397884cd38a,Dustin Lynch,3,https://musicbrainz.org/artist/64f8c7a9-1074-4ab7-bb2c-8397884cd38a,/artist/64f8c7a9-1074-4ab7-bb2c-8397884cd38a
+ceeb25b6-a273-40b8-9645-b517892abe3c,Neal McCoy,3,https://musicbrainz.org/artist/ceeb25b6-a273-40b8-9645-b517892abe3c,/artist/ceeb25b6-a273-40b8-9645-b517892abe3c
+cff63c14-b081-4686-9357-eea84d5348fc,Anne Murray,3,https://musicbrainz.org/artist/cff63c14-b081-4686-9357-eea84d5348fc,/artist/cff63c14-b081-4686-9357-eea84d5348fc
+d1393ecb-431b-4fde-a6ea-d769f2f040cb,Kacey Musgraves,3,https://musicbrainz.org/artist/d1393ecb-431b-4fde-a6ea-d769f2f040cb,/artist/d1393ecb-431b-4fde-a6ea-d769f2f040cb
+0202af38-ac32-48d0-a546-87caaef2dee2,Old Crow Medicine Show,3,https://musicbrainz.org/artist/0202af38-ac32-48d0-a546-87caaef2dee2,/artist/0202af38-ac32-48d0-a546-87caaef2dee2
+be96eda1-7e36-44f6-affe-80780400fae0,The Osmonds,3,https://musicbrainz.org/artist/be96eda1-7e36-44f6-affe-80780400fae0,/artist/be96eda1-7e36-44f6-affe-80780400fae0
+e86492c1-0376-4df0-8042-8ba058c83960,John Prine,3,https://musicbrainz.org/artist/e86492c1-0376-4df0-8042-8ba058c83960,/artist/e86492c1-0376-4df0-8042-8ba058c83960
+49bf0641-e3cd-462f-8aab-5346ef213b01,Collin Raye,3,https://musicbrainz.org/artist/49bf0641-e3cd-462f-8aab-5346ef213b01,/artist/49bf0641-e3cd-462f-8aab-5346ef213b01
+2c05faf7-5cc8-4476-9daa-d177ad75cd34,Jim Reeves,3,https://musicbrainz.org/artist/2c05faf7-5cc8-4476-9daa-d177ad75cd34,/artist/2c05faf7-5cc8-4476-9daa-d177ad75cd34
+f6e61750-a6b7-4d88-979b-052345cd0e4a,Sturgill Simpson,3,https://musicbrainz.org/artist/f6e61750-a6b7-4d88-979b-052345cd0e4a,/artist/f6e61750-a6b7-4d88-979b-052345cd0e4a
+1a14063c-9dca-48d5-98c3-89748c74562b,Ricky Skaggs,3,https://musicbrainz.org/artist/1a14063c-9dca-48d5-98c3-89748c74562b,/artist/1a14063c-9dca-48d5-98c3-89748c74562b
+71d58182-aa37-4c04-b21a-efe46ea0f221,Chris Stapleton,3,https://musicbrainz.org/artist/71d58182-aa37-4c04-b21a-efe46ea0f221,/artist/71d58182-aa37-4c04-b21a-efe46ea0f221
+8f0c7db9-6d1c-446b-913c-b5c6811ca6fc,The Statler Brothers,3,https://musicbrainz.org/artist/8f0c7db9-6d1c-446b-913c-b5c6811ca6fc,/artist/8f0c7db9-6d1c-446b-913c-b5c6811ca6fc
+f87b740a-c22b-4fae-9987-1f3e16f840c4,Sugarland,3,https://musicbrainz.org/artist/f87b740a-c22b-4fae-9987-1f3e16f840c4,/artist/f87b740a-c22b-4fae-9987-1f3e16f840c4
+db1e68dc-7e8a-4e0e-aaea-2f1cda1ac360,Pam Tillis,3,https://musicbrainz.org/artist/db1e68dc-7e8a-4e0e-aaea-2f1cda1ac360,/artist/db1e68dc-7e8a-4e0e-aaea-2f1cda1ac360
+615caab0-9cc2-4c24-9667-f46894be726e,Travis Tritt,3,https://musicbrainz.org/artist/615caab0-9cc2-4c24-9667-f46894be726e,/artist/615caab0-9cc2-4c24-9667-f46894be726e
+45677914-89de-4267-aeae-8c1661b2c859,Tanya Tucker,3,https://musicbrainz.org/artist/45677914-89de-4267-aeae-8c1661b2c859,/artist/45677914-89de-4267-aeae-8c1661b2c859
+e03c5f07-71e9-4e3c-a9fd-2a90e61d2f2e,Bryan White,3,https://musicbrainz.org/artist/e03c5f07-71e9-4e3c-a9fd-2a90e61d2f2e,/artist/e03c5f07-71e9-4e3c-a9fd-2a90e61d2f2e
+21685b15-3074-446e-aa1d-ff7157014f53,Lucinda Williams,3,https://musicbrainz.org/artist/21685b15-3074-446e-aa1d-ff7157014f53,/artist/21685b15-3074-446e-aa1d-ff7157014f53
+21bffe8e-4e04-47f6-b1aa-7ede4b14cc4e,John Anderson,2,https://musicbrainz.org/artist/21bffe8e-4e04-47f6-b1aa-7ede4b14cc4e,/artist/21bffe8e-4e04-47f6-b1aa-7ede4b14cc4e
+42f0a4aa-644b-4bb6-aca0-07207562e8cb,Courtney Marie Andrews,2,https://musicbrainz.org/artist/42f0a4aa-644b-4bb6-aca0-07207562e8cb,/artist/42f0a4aa-644b-4bb6-aca0-07207562e8cb
+51e607d4-e28d-468d-8e21-429aa9ce0206,Rodney Atkins,2,https://musicbrainz.org/artist/51e607d4-e28d-468d-8e21-429aa9ce0206,/artist/51e607d4-e28d-468d-8e21-429aa9ce0206
+462b8341-7fa5-442e-9f1a-c1b5a194da22,Kylie Austin,2,https://musicbrainz.org/artist/462b8341-7fa5-442e-9f1a-c1b5a194da22,/artist/462b8341-7fa5-442e-9f1a-c1b5a194da22
+b779262a-e5c0-4ca1-b412-e2fbb5ea7318,Gabby Barrett,2,https://musicbrainz.org/artist/b779262a-e5c0-4ca1-b412-e2fbb5ea7318,/artist/b779262a-e5c0-4ca1-b412-e2fbb5ea7318

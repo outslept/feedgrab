@@ -1,0 +1,59 @@
+id,name,count,url,related
+650bf385-6f6d-4992-a3b9-779d144920a4,Django Reinhardt,4,https://musicbrainz.org/artist/650bf385-6f6d-4992-a3b9-779d144920a4,/artist/650bf385-6f6d-4992-a3b9-779d144920a4
+bfc03211-a3a2-4700-8fa3-00968c02c5d0,Stéphane Grappelli,3,https://musicbrainz.org/artist/bfc03211-a3a2-4700-8fa3-00968c02c5d0,/artist/bfc03211-a3a2-4700-8fa3-00968c02c5d0
+de386d54-96ef-41f5-9179-9dc37eec082d,Jean Bonal,2,https://musicbrainz.org/artist/de386d54-96ef-41f5-9179-9dc37eec082d,/artist/de386d54-96ef-41f5-9179-9dc37eec082d
+57e0894c-d70d-4026-a001-cf212f8550f2,Biréli Lagrène,2,https://musicbrainz.org/artist/57e0894c-d70d-4026-a001-cf212f8550f2,/artist/57e0894c-d70d-4026-a001-cf212f8550f2
+7df5778d-b8d5-419d-bd41-bf6db5b57188,Sylvain Luc,2,https://musicbrainz.org/artist/7df5778d-b8d5-419d-bd41-bf6db5b57188,/artist/7df5778d-b8d5-419d-bd41-bf6db5b57188
+3ac3ed58-f3a7-4e3e-ae32-da4114861d4f,Sanseverino,2,https://musicbrainz.org/artist/3ac3ed58-f3a7-4e3e-ae32-da4114861d4f,/artist/3ac3ed58-f3a7-4e3e-ae32-da4114861d4f
+44558c8d-1e4f-432e-86de-1aab3c1f1c89,Christine Tassan,2,https://musicbrainz.org/artist/44558c8d-1e4f-432e-86de-1aab3c1f1c89,/artist/44558c8d-1e4f-432e-86de-1aab3c1f1c89
+6bdff453-bbfb-4450-9f9c-d8c94ee210ea,Oscar Alemán,1,https://musicbrainz.org/artist/6bdff453-bbfb-4450-9f9c-d8c94ee210ea,/artist/6bdff453-bbfb-4450-9f9c-d8c94ee210ea
+b9c24388-0f1b-42c7-b3c7-2466d7b7b406,"José Angel ""Che Che"" Avila",1,https://musicbrainz.org/artist/b9c24388-0f1b-42c7-b3c7-2466d7b7b406,/artist/b9c24388-0f1b-42c7-b3c7-2466d7b7b406
+ef6b8c59-e045-4343-8e54-c274a84c6cf0,Gonzalo Bergara,1,https://musicbrainz.org/artist/ef6b8c59-e045-4343-8e54-c274a84c6cf0,/artist/ef6b8c59-e045-4343-8e54-c274a84c6cf0
+523e8461-0190-4581-b106-d87cb71cbbcb,Black Spider Stomp,1,https://musicbrainz.org/artist/523e8461-0190-4581-b106-d87cb71cbbcb,/artist/523e8461-0190-4581-b106-d87cb71cbbcb
+9ec76722-88b1-4235-be65-53417e59ba50,The Bonaventure Quartet,1,https://musicbrainz.org/artist/9ec76722-88b1-4235-be65-53417e59ba50,/artist/9ec76722-88b1-4235-be65-53417e59ba50
+c773e887-d3b5-46c6-ba10-56115e7227ce,Arnaud Bouquin,1,https://musicbrainz.org/artist/c773e887-d3b5-46c6-ba10-56115e7227ce,/artist/c773e887-d3b5-46c6-ba10-56115e7227ce
+64a2ab74-d9c0-4d44-ba07-49a84a1169d8,Caravan Gypsy Swing Ensemble,1,https://musicbrainz.org/artist/64a2ab74-d9c0-4d44-ba07-49a84a1169d8,/artist/64a2ab74-d9c0-4d44-ba07-49a84a1169d8
+4c8e6a37-d1a8-4c9e-ac0a-d1e00faaaab6,Club Manouche,1,https://musicbrainz.org/artist/4c8e6a37-d1a8-4c9e-ac0a-d1e00faaaab6,/artist/4c8e6a37-d1a8-4c9e-ac0a-d1e00faaaab6
+9808944e-c748-457e-918e-204c995efd22,Henri Crolla,1,https://musicbrainz.org/artist/9808944e-c748-457e-918e-204c995efd22,/artist/9808944e-c748-457e-918e-204c995efd22
+a4a04c96-977c-4ef4-9fa3-1bf3209c714e,Ivon de Bie,1,https://musicbrainz.org/artist/a4a04c96-977c-4ef4-9fa3-1bf3209c714e,/artist/a4a04c96-977c-4ef4-9fa3-1bf3209c714e
+6d19b5fb-7ef8-4132-a144-e254ce6e9e25,André Dedjean,1,https://musicbrainz.org/artist/6d19b5fb-7ef8-4132-a144-e254ce6e9e25,/artist/6d19b5fb-7ef8-4132-a144-e254ce6e9e25
+482f7656-1858-403a-b13e-a4faa195e7bb,Gus Deloof,1,https://musicbrainz.org/artist/482f7656-1858-403a-b13e-a4faa195e7bb,/artist/482f7656-1858-403a-b13e-a4faa195e7bb
+8b6fa76e-db9a-46b9-8632-c935853d8e2d,[dunkelbunt],1,https://musicbrainz.org/artist/8b6fa76e-db9a-46b9-8632-c935853d8e2d,/artist/8b6fa76e-db9a-46b9-8632-c935853d8e2d
+8ff3b91f-e05f-4afb-be53-d68d44c2ab7e,Christian Escoudé,1,https://musicbrainz.org/artist/8ff3b91f-e05f-4afb-be53-d68d44c2ab7e,/artist/8ff3b91f-e05f-4afb-be53-d68d44c2ab7e
+44c77a9a-8dad-4641-9d17-bf10f3b51323,"Étienne ""Sarane"" Ferret",1,https://musicbrainz.org/artist/44c77a9a-8dad-4641-9d17-bf10f3b51323,/artist/44c77a9a-8dad-4641-9d17-bf10f3b51323
+23a9664f-22af-467b-99a9-41ad94f016ca,Matelo Ferret,1,https://musicbrainz.org/artist/23a9664f-22af-467b-99a9-41ad94f016ca,/artist/23a9664f-22af-467b-99a9-41ad94f016ca
+e5baf949-b9bf-41c3-a677-ca4cc691780c,Pierre “Baro” Ferret,1,https://musicbrainz.org/artist/e5baf949-b9bf-41c3-a677-ca4cc691780c,/artist/e5baf949-b9bf-41c3-a677-ca4cc691780c
+bc48230e-f21d-4425-ac82-e6b7392b374b,Gaucho,1,https://musicbrainz.org/artist/bc48230e-f21d-4425-ac82-e6b7392b374b,/artist/bc48230e-f21d-4425-ac82-e6b7392b374b
+541c4bce-a97e-445d-99f5-bf327ce52b88,Georges Effrosse,1,https://musicbrainz.org/artist/541c4bce-a97e-445d-99f5-bf327ce52b88,/artist/541c4bce-a97e-445d-99f5-bf327ce52b88
+35d67569-eafe-4e53-a0f5-5c4b009e4b39,Gonzalo Bergara Quartet,1,https://musicbrainz.org/artist/35d67569-eafe-4e53-a0f5-5c4b009e4b39,/artist/35d67569-eafe-4e53-a0f5-5c4b009e4b39
+e8972ccc-ad36-43ec-8291-f379dc0e0969,Charles Guilbaud,1,https://musicbrainz.org/artist/e8972ccc-ad36-43ec-8291-f379dc0e0969,/artist/e8972ccc-ad36-43ec-8291-f379dc0e0969
+c995d0db-36a0-48d4-9cb1-bb8a8d6b1dfb,Michel Hausser,1,https://musicbrainz.org/artist/c995d0db-36a0-48d4-9cb1-bb8a8d6b1dfb,/artist/c995d0db-36a0-48d4-9cb1-bb8a8d6b1dfb
+c0c467d5-24e9-44f4-9bfc-5a97ad6691bc,Erik Hokkanen,1,https://musicbrainz.org/artist/c0c467d5-24e9-44f4-9bfc-5a97ad6691bc,/artist/c0c467d5-24e9-44f4-9bfc-5a97ad6691bc
+15369e48-9b4a-44ba-a334-de57b15f4341,Hot Club du Nax,1,https://musicbrainz.org/artist/15369e48-9b4a-44ba-a334-de57b15f4341,/artist/15369e48-9b4a-44ba-a334-de57b15f4341
+732f175f-1cbc-4bf5-bc87-a0cdfbc1521b,André Jourdan,1,https://musicbrainz.org/artist/732f175f-1cbc-4bf5-bc87-a0cdfbc1521b,/artist/732f175f-1cbc-4bf5-bc87-a0cdfbc1521b
+9081f28d-33dc-4014-9850-2bcd7bbe94bd,Guy Lafitte,1,https://musicbrainz.org/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd,/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd
+fec4bf65-d8af-4d09-8737-2c689af572fa,Jacques Lowens,1,https://musicbrainz.org/artist/fec4bf65-d8af-4d09-8737-2c689af572fa,/artist/fec4bf65-d8af-4d09-8737-2c689af572fa
+787e57a7-7bf6-4a21-9b75-a9c51c508398,Alf Masselier,1,https://musicbrainz.org/artist/787e57a7-7bf6-4a21-9b75-a9c51c508398,/artist/787e57a7-7bf6-4a21-9b75-a9c51c508398
+ab2d38f4-7439-49c9-84a3-6b405f57f5f1,MOHIKAN FAMILY'S,1,https://musicbrainz.org/artist/ab2d38f4-7439-49c9-84a3-6b405f57f5f1,/artist/ab2d38f4-7439-49c9-84a3-6b405f57f5f1
+1a9eb6e9-c759-44a0-9773-2c2d00ceb1f3,Natchav Swing,1,https://musicbrainz.org/artist/1a9eb6e9-c759-44a0-9773-2c2d00ceb1f3,/artist/1a9eb6e9-c759-44a0-9773-2c2d00ceb1f3
+61467b9e-d597-49f8-8de9-f8e4252fda13,Roger Paraboschi,1,https://musicbrainz.org/artist/61467b9e-d597-49f8-8de9-f8e4252fda13,/artist/61467b9e-d597-49f8-8de9-f8e4252fda13
+b3365cc7-49b5-4a7f-b878-80487aad59c1,Paris Combo,1,https://musicbrainz.org/artist/b3365cc7-49b5-4a7f-b878-80487aad59c1,/artist/b3365cc7-49b5-4a7f-b878-80487aad59c1
+ee55e4e8-807d-49b1-8470-d1c0898ed7cb,Quintette du Hot Club de France,1,https://musicbrainz.org/artist/ee55e4e8-807d-49b1-8470-d1c0898ed7cb,/artist/ee55e4e8-807d-49b1-8470-d1c0898ed7cb
+19b1e7e2-b1ee-44ea-9ea9-cc2289e66f5f,Rob Heron & The Tea Pad Orchestra,1,https://musicbrainz.org/artist/19b1e7e2-b1ee-44ea-9ea9-cc2289e66f5f,/artist/19b1e7e2-b1ee-44ea-9ea9-cc2289e66f5f
+48b06abd-7c33-48fd-97b1-37c392d7795c,Romane,1,https://musicbrainz.org/artist/48b06abd-7c33-48fd-97b1-37c392d7795c,/artist/48b06abd-7c33-48fd-97b1-37c392d7795c
+901f5dba-4317-4423-b9fb-f669cdb185e6,The Rosenberg Trio,1,https://musicbrainz.org/artist/901f5dba-4317-4423-b9fb-f669cdb185e6,/artist/901f5dba-4317-4423-b9fb-f669cdb185e6
+f1ddcc96-1518-414c-b820-258a64abdf84,Hubert Rostaing,1,https://musicbrainz.org/artist/f1ddcc96-1518-414c-b820-258a64abdf84,/artist/f1ddcc96-1518-414c-b820-258a64abdf84
+5456ea50-32aa-4162-bcfa-dc65a766e1de,Lucien Simoens,1,https://musicbrainz.org/artist/5456ea50-32aa-4162-bcfa-dc65a766e1de,/artist/5456ea50-32aa-4162-bcfa-dc65a766e1de
+13b00208-fff9-4dbd-bfc1-f769c182fbf8,Martial Solal,1,https://musicbrainz.org/artist/13b00208-fff9-4dbd-bfc1-f769c182fbf8,/artist/13b00208-fff9-4dbd-bfc1-f769c182fbf8
+9254c4e8-2a0d-419e-bc08-5ad9ea17116a,Söndörgő,1,https://musicbrainz.org/artist/9254c4e8-2a0d-419e-bc08-5ad9ea17116a,/artist/9254c4e8-2a0d-419e-bc08-5ad9ea17116a
+ee15538b-1eef-4b88-ab07-ea03c246a41f,Emmanuel Soudieux,1,https://musicbrainz.org/artist/ee15538b-1eef-4b88-ab07-ea03c246a41f,/artist/ee15538b-1eef-4b88-ab07-ea03c246a41f
+073c9a7a-392c-41c1-9261-cc5ce57da9bd,Toni Stricker,1,https://musicbrainz.org/artist/073c9a7a-392c-41c1-9261-cc5ce57da9bd,/artist/073c9a7a-392c-41c1-9261-cc5ce57da9bd
+ee69197a-ca57-42ba-bd23-93b756391a5d,Gábor Szabó,1,https://musicbrainz.org/artist/ee69197a-ca57-42ba-bd23-93b756391a5d,/artist/ee69197a-ca57-42ba-bd23-93b756391a5d
+2a4394c1-070c-46cc-bc32-294bebc380bc,Tashkezar,1,https://musicbrainz.org/artist/2a4394c1-070c-46cc-bc32-294bebc380bc,/artist/2a4394c1-070c-46cc-bc32-294bebc380bc
+d3f9b7d4-b662-44af-92fa-eaffdb56dc0c,Christine Tassan et les imposteures,1,https://musicbrainz.org/artist/d3f9b7d4-b662-44af-92fa-eaffdb56dc0c,/artist/d3f9b7d4-b662-44af-92fa-eaffdb56dc0c
+c9f1903d-95af-4c8a-a12f-34ab6b674fc1,Sam Thurston,1,https://musicbrainz.org/artist/c9f1903d-95af-4c8a-a12f-34ab6b674fc1,/artist/c9f1903d-95af-4c8a-a12f-34ab6b674fc1
+9fa88d0f-dc10-4e51-9233-ff76184d7517,Gérard Vanderbroucque,1,https://musicbrainz.org/artist/9fa88d0f-dc10-4e51-9233-ff76184d7517,/artist/9fa88d0f-dc10-4e51-9233-ff76184d7517
+0a4f1ef2-15ef-466b-a17a-40a25b89cdb6,David Vergnaud,1,https://musicbrainz.org/artist/0a4f1ef2-15ef-466b-a17a-40a25b89cdb6,/artist/0a4f1ef2-15ef-466b-a17a-40a25b89cdb6
+697a7045-2cdc-4d66-bbf7-04865dba9f9e,Frank Vignola,1,https://musicbrainz.org/artist/697a7045-2cdc-4d66-bbf7-04865dba9f9e,/artist/697a7045-2cdc-4d66-bbf7-04865dba9f9e
+d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb,Gus Viseur,1,https://musicbrainz.org/artist/d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb,/artist/d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb
+0151a7a7-540a-4a6e-b5c2-86d1216393a1,ザッハトルテ,1,https://musicbrainz.org/artist/0151a7a7-540a-4a6e-b5c2-86d1216393a1,/artist/0151a7a7-540a-4a6e-b5c2-86d1216393a1

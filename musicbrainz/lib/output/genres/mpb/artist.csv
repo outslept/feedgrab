@@ -1,0 +1,101 @@
+id,name,count,url,related
+f07dbc2f-317b-470f-bad4-5f1b0eb6faf1,Caetano Veloso,10,https://musicbrainz.org/artist/f07dbc2f-317b-470f-bad4-5f1b0eb6faf1,/artist/f07dbc2f-317b-470f-bad4-5f1b0eb6faf1
+fc63a914-272d-4b95-9221-61adcce6f793,Gal Costa,5,https://musicbrainz.org/artist/fc63a914-272d-4b95-9221-61adcce6f793,/artist/fc63a914-272d-4b95-9221-61adcce6f793
+cf6b70f6-2616-481c-912c-0263cabfc974,Gilberto Gil,4,https://musicbrainz.org/artist/cf6b70f6-2616-481c-912c-0263cabfc974,/artist/cf6b70f6-2616-481c-912c-0263cabfc974
+1bfa27e3-0376-4206-a772-4586e25a64f5,Milton Nascimento,4,https://musicbrainz.org/artist/1bfa27e3-0376-4206-a772-4586e25a64f5,/artist/1bfa27e3-0376-4206-a772-4586e25a64f5
+3a5d1cc7-627e-48ea-aba3-fdd20d782c33,Chico Buarque,3,https://musicbrainz.org/artist/3a5d1cc7-627e-48ea-aba3-fdd20d782c33,/artist/3a5d1cc7-627e-48ea-aba3-fdd20d782c33
+19499124-36d4-4ccc-b28d-04dde3d2076f,Jorge Ben Jor,2,https://musicbrainz.org/artist/19499124-36d4-4ccc-b28d-04dde3d2076f,/artist/19499124-36d4-4ccc-b28d-04dde3d2076f
+b3998c06-04e6-4b1d-bd2a-d5b83572ae7b,Maria Bethânia,2,https://musicbrainz.org/artist/b3998c06-04e6-4b1d-bd2a-d5b83572ae7b,/artist/b3998c06-04e6-4b1d-bd2a-d5b83572ae7b
+751e517d-9663-4692-8c20-942e16d484c5,Djavan,2,https://musicbrainz.org/artist/751e517d-9663-4692-8c20-942e16d484c5,/artist/751e517d-9663-4692-8c20-942e16d484c5
+5a30bc52-c51c-48ca-8deb-265517f6352e,João Tostes,2,https://musicbrainz.org/artist/5a30bc52-c51c-48ca-8deb-265517f6352e,/artist/5a30bc52-c51c-48ca-8deb-265517f6352e
+f3580347-b84a-47d8-b86e-cad642322a47,Vanessa da Mata,2,https://musicbrainz.org/artist/f3580347-b84a-47d8-b86e-cad642322a47,/artist/f3580347-b84a-47d8-b86e-cad642322a47
+7b543eba-995a-4c30-a37e-f8cac424f167,Novos Baianos,2,https://musicbrainz.org/artist/7b543eba-995a-4c30-a37e-f8cac424f167,/artist/7b543eba-995a-4c30-a37e-f8cac424f167
+e9e85a54-074c-4d29-a886-bcaaa9d44f9f,Elis Regina,2,https://musicbrainz.org/artist/e9e85a54-074c-4d29-a886-bcaaa9d44f9f,/artist/e9e85a54-074c-4d29-a886-bcaaa9d44f9f
+3c12ecf2-91da-4d4a-8462-e4d5d9e273e7,Maria Rita,2,https://musicbrainz.org/artist/3c12ecf2-91da-4d4a-8462-e4d5d9e273e7,/artist/3c12ecf2-91da-4d4a-8462-e4d5d9e273e7
+40c3dbd1-66c8-4c12-b673-f22d52177b45,14 Bis,1,https://musicbrainz.org/artist/40c3dbd1-66c8-4c12-b673-f22d52177b45,/artist/40c3dbd1-66c8-4c12-b673-f22d52177b45
+f8acb7ed-c9ff-4f99-8ca0-d190f5818268,Vania Abreu,1,https://musicbrainz.org/artist/f8acb7ed-c9ff-4f99-8ca0-d190f5818268,/artist/f8acb7ed-c9ff-4f99-8ca0-d190f5818268
+51bde19b-feed-4e6c-99e7-84327defabe2,Alcione,1,https://musicbrainz.org/artist/51bde19b-feed-4e6c-99e7-84327defabe2,/artist/51bde19b-feed-4e6c-99e7-84327defabe2
+b2708660-8bac-47e1-87a0-aaafa17b2c54,Bebeto Alves,1,https://musicbrainz.org/artist/b2708660-8bac-47e1-87a0-aaafa17b2c54,/artist/b2708660-8bac-47e1-87a0-aaafa17b2c54
+603975de-6e78-4e47-9670-5cb72fd3dfa3,Beatriz Andrade,1,https://musicbrainz.org/artist/603975de-6e78-4e47-9670-5cb72fd3dfa3,/artist/603975de-6e78-4e47-9670-5cb72fd3dfa3
+59b2057f-5a0c-4ce1-a404-5de1ffdbc012,Leny Andrade,1,https://musicbrainz.org/artist/59b2057f-5a0c-4ce1-a404-5de1ffdbc012,/artist/59b2057f-5a0c-4ce1-a404-5de1ffdbc012
+eb361c4f-d21f-4291-bc39-a26b061208bd,Marina Aquino,1,https://musicbrainz.org/artist/eb361c4f-d21f-4291-bc39-a26b061208bd,/artist/eb361c4f-d21f-4291-bc39-a26b061208bd
+23751694-aad0-45f7-b3bf-bdade42466f6,Jorge Aragão,1,https://musicbrainz.org/artist/23751694-aad0-45f7-b3bf-bdade42466f6,/artist/23751694-aad0-45f7-b3bf-bdade42466f6
+27aadd58-a2a2-4df4-8167-d806be0f9146,Guilherme Arantes,1,https://musicbrainz.org/artist/27aadd58-a2a2-4df4-8167-d806be0f9146,/artist/27aadd58-a2a2-4df4-8167-d806be0f9146
+bafc346c-8c25-4e94-b9dd-5e0183db32c8,José Augusto,1,https://musicbrainz.org/artist/bafc346c-8c25-4e94-b9dd-5e0183db32c8,/artist/bafc346c-8c25-4e94-b9dd-5e0183db32c8
+145a7738-d7fb-4041-9da6-1c26790f899d,Geraldo Azevedo,1,https://musicbrainz.org/artist/145a7738-d7fb-4041-9da6-1c26790f899d,/artist/145a7738-d7fb-4041-9da6-1c26790f899d
+040981f0-5b0b-496f-8dcb-7a70595e3b4a,Baby do Brasil,1,https://musicbrainz.org/artist/040981f0-5b0b-496f-8dcb-7a70595e3b4a,/artist/040981f0-5b0b-496f-8dcb-7a70595e3b4a
+b5553893-a9d3-45e0-958f-a835d08f9574,Banda de Argila,1,https://musicbrainz.org/artist/b5553893-a9d3-45e0-958f-a835d08f9574,/artist/b5553893-a9d3-45e0-958f-a835d08f9574
+51f8de5b-2e13-48ef-b6b9-0c5a1cf07262,Banda do Mar,1,https://musicbrainz.org/artist/51f8de5b-2e13-48ef-b6b9-0c5a1cf07262,/artist/51f8de5b-2e13-48ef-b6b9-0c5a1cf07262
+260bff77-1d4f-49b6-9e8c-1e2797ce0528,A Banda Mais Bonita da Cidade,1,https://musicbrainz.org/artist/260bff77-1d4f-49b6-9e8c-1e2797ce0528,/artist/260bff77-1d4f-49b6-9e8c-1e2797ce0528
+1c9fff5e-2f34-414c-9090-05b5c23459ef,Théo de Barros,1,https://musicbrainz.org/artist/1c9fff5e-2f34-414c-9090-05b5c23459ef,/artist/1c9fff5e-2f34-414c-9090-05b5c23459ef
+bf4fe7cd-7d38-41d2-b78a-fdc7c6b08929,Ronaldo Bastos,1,https://musicbrainz.org/artist/bf4fe7cd-7d38-41d2-b78a-fdc7c6b08929,/artist/bf4fe7cd-7d38-41d2-b78a-fdc7c6b08929
+d51c2d7f-921e-4f24-9fe7-92efc5189708,Belchior,1,https://musicbrainz.org/artist/d51c2d7f-921e-4f24-9fe7-92efc5189708,/artist/d51c2d7f-921e-4f24-9fe7-92efc5189708
+a1636057-8ebb-4caf-9505-2f1d80567b46,Beraderos,1,https://musicbrainz.org/artist/a1636057-8ebb-4caf-9505-2f1d80567b46,/artist/a1636057-8ebb-4caf-9505-2f1d80567b46
+3cabbd9b-2c9d-4b90-8c87-57d9a0edab7f,Aldir Blanc,1,https://musicbrainz.org/artist/3cabbd9b-2c9d-4b90-8c87-57d9a0edab7f,/artist/3cabbd9b-2c9d-4b90-8c87-57d9a0edab7f
+6fa56da3-9e74-4920-8c76-947a43dd7fab,Boca Livre,1,https://musicbrainz.org/artist/6fa56da3-9e74-4920-8c76-947a43dd7fab,/artist/6fa56da3-9e74-4920-8c76-947a43dd7fab
+20c77526-a82c-4b8c-83b7-3b0406f8beaf,Marcelo Bonfá,1,https://musicbrainz.org/artist/20c77526-a82c-4b8c-83b7-3b0406f8beaf,/artist/20c77526-a82c-4b8c-83b7-3b0406f8beaf
+5bddb0fa-66f7-47c8-bf00-afecab627d59,Lô Borges,1,https://musicbrainz.org/artist/5bddb0fa-66f7-47c8-bf00-afecab627d59,/artist/5bddb0fa-66f7-47c8-bf00-afecab627d59
+150ffd99-a98e-486e-8c84-77d77f03747e,João Bosco,1,https://musicbrainz.org/artist/150ffd99-a98e-486e-8c84-77d77f03747e,/artist/150ffd99-a98e-486e-8c84-77d77f03747e
+e2a0c0f5-dd8d-4653-ba1d-1bcf1354092b,Leci Brandão,1,https://musicbrainz.org/artist/e2a0c0f5-dd8d-4653-ba1d-1bcf1354092b,/artist/e2a0c0f5-dd8d-4653-ba1d-1bcf1354092b
+bd4d397a-849a-48bf-be24-52eec87feeee,Adriana Calcanhotto,1,https://musicbrainz.org/artist/bd4d397a-849a-48bf-be24-52eec87feeee,/artist/bd4d397a-849a-48bf-be24-52eec87feeee
+55a0b66a-5272-43db-b06f-76719df72a18,Jorge Camargo,1,https://musicbrainz.org/artist/55a0b66a-5272-43db-b06f-76719df72a18,/artist/55a0b66a-5272-43db-b06f-76719df72a18
+c7c9fa4d-262b-45c1-9477-237849654948,Erasmo Carlos,1,https://musicbrainz.org/artist/c7c9fa4d-262b-45c1-9477-237849654948,/artist/c7c9fa4d-262b-45c1-9477-237849654948
+85bec8d9-59c4-4051-be75-e0cca7456dc5,Carminho,1,https://musicbrainz.org/artist/85bec8d9-59c4-4051-be75-e0cca7456dc5,/artist/85bec8d9-59c4-4051-be75-e0cca7456dc5
+02809fda-8319-4628-b165-a51213bf30ac,Beth Carvalho,1,https://musicbrainz.org/artist/02809fda-8319-4628-b165-a51213bf30ac,/artist/02809fda-8319-4628-b165-a51213bf30ac
+fdf46a8b-402d-4657-92f1-907db0f0e2be,Cassis,1,https://musicbrainz.org/artist/fdf46a8b-402d-4657-92f1-907db0f0e2be,/artist/fdf46a8b-402d-4657-92f1-907db0f0e2be
+466fc5c8-6bb3-4a8d-8d5e-f910744d7862,Bebeto Castilho,1,https://musicbrainz.org/artist/466fc5c8-6bb3-4a8d-8d5e-f910744d7862,/artist/466fc5c8-6bb3-4a8d-8d5e-f910744d7862
+8898cc95-a19f-491b-9f83-d4fef6d883ff,Péricles Cavalcanti,1,https://musicbrainz.org/artist/8898cc95-a19f-491b-9f83-d4fef6d883ff,/artist/8898cc95-a19f-491b-9f83-d4fef6d883ff
+aaaaab61-aa05-47e9-a607-5da742148efb,Dori Caymmi,1,https://musicbrainz.org/artist/aaaaab61-aa05-47e9-a607-5da742148efb,/artist/aaaaab61-aa05-47e9-a607-5da742148efb
+e554daf4-4ad0-438f-a7f9-832519451fd2,Cazuza,1,https://musicbrainz.org/artist/e554daf4-4ad0-438f-a7f9-832519451fd2,/artist/e554daf4-4ad0-438f-a7f9-832519451fd2
+49b6e333-f56f-4da9-944c-15a6deee8ada,Chico César,1,https://musicbrainz.org/artist/49b6e333-f56f-4da9-944c-15a6deee8ada,/artist/49b6e333-f56f-4da9-944c-15a6deee8ada
+7a511485-306b-4838-9a8d-3eaf3b1cf785,Nilton César,1,https://musicbrainz.org/artist/7a511485-306b-4838-9a8d-3eaf3b1cf785,/artist/7a511485-306b-4838-9a8d-3eaf3b1cf785
+8addb377-21bd-437d-b649-4adabf494a6c,Djalma Corrêa,1,https://musicbrainz.org/artist/8addb377-21bd-437d-b649-4adabf494a6c,/artist/8addb377-21bd-437d-b649-4adabf494a6c
+38f2dfb6-10c0-4f3b-b0e1-4ff5f090e625,Sueli Costa,1,https://musicbrainz.org/artist/38f2dfb6-10c0-4f3b-b0e1-4ff5f090e625,/artist/38f2dfb6-10c0-4f3b-b0e1-4ff5f090e625
+8ce8de96-7118-46fe-a5e2-afa403870bca,Teresa Cristina,1,https://musicbrainz.org/artist/8ce8de96-7118-46fe-a5e2-afa403870bca,/artist/8ce8de96-7118-46fe-a5e2-afa403870bca
+ccb88a9e-ec4d-4e82-8e3d-3ff2ea41a9f1,Meno Del Picchia,1,https://musicbrainz.org/artist/ccb88a9e-ec4d-4e82-8e3d-3ff2ea41a9f1,/artist/ccb88a9e-ec4d-4e82-8e3d-3ff2ea41a9f1
+641ac3e3-12d2-4cee-b8b5-9f118de320bb,Cris Delanno,1,https://musicbrainz.org/artist/641ac3e3-12d2-4cee-b8b5-9f118de320bb,/artist/641ac3e3-12d2-4cee-b8b5-9f118de320bb
+4125b6d6-d421-4c05-ae57-49f7f59dab03,Paulo Diniz,1,https://musicbrainz.org/artist/4125b6d6-d421-4c05-ae57-49f7f59dab03,/artist/4125b6d6-d421-4c05-ae57-49f7f59dab03
+c8cf64ba-734b-479a-a39c-556fa76da955,Jane Duboc,1,https://musicbrainz.org/artist/c8cf64ba-734b-479a-a39c-556fa76da955,/artist/c8cf64ba-734b-479a-a39c-556fa76da955
+4e4fd19a-286b-40d0-94ae-3187b3567380,Eduardo Dusek,1,https://musicbrainz.org/artist/4e4fd19a-286b-40d0-94ae-3187b3567380,/artist/4e4fd19a-286b-40d0-94ae-3187b3567380
+b3b9eb0c-d0b4-4570-b816-4e05e308b444,Cássia Eller,1,https://musicbrainz.org/artist/b3b9eb0c-d0b4-4570-b816-4e05e308b444,/artist/b3b9eb0c-d0b4-4570-b816-4e05e308b444
+42437cfa-b4f2-4190-9084-d18bc9f5fc01,Equipe Mercado,1,https://musicbrainz.org/artist/42437cfa-b4f2-4190-9084-d18bc9f5fc01,/artist/42437cfa-b4f2-4190-9084-d18bc9f5fc01
+12f6f347-afac-481a-87a6-4ff8d78d7bee,Giuliano Eriston,1,https://musicbrainz.org/artist/12f6f347-afac-481a-87a6-4ff8d78d7bee,/artist/12f6f347-afac-481a-87a6-4ff8d78d7bee
+7df5de77-f197-4326-805e-2b2a128feb25,Fafá de Belém,1,https://musicbrainz.org/artist/7df5de77-f197-4326-805e-2b2a128feb25,/artist/7df5de77-f197-4326-805e-2b2a128feb25
+d3d08827-5446-48c3-b795-a897ae6fe77f,Fagner,1,https://musicbrainz.org/artist/d3d08827-5446-48c3-b795-a897ae6fe77f,/artist/d3d08827-5446-48c3-b795-a897ae6fe77f
+d1932cd4-28d5-4564-a851-62f3125dbf7f,The Fevers,1,https://musicbrainz.org/artist/d1932cd4-28d5-4564-a851-62f3125dbf7f,/artist/d1932cd4-28d5-4564-a851-62f3125dbf7f
+23383ac8-f635-4981-a755-cbe45c13b351,Celso Fonseca,1,https://musicbrainz.org/artist/23383ac8-f635-4981-a755-cbe45c13b351,/artist/23383ac8-f635-4981-a755-cbe45c13b351
+05e53d83-0bee-49b5-9c0b-98c541b4a717,Fragoria,1,https://musicbrainz.org/artist/05e53d83-0bee-49b5-9c0b-98c541b4a717,/artist/05e53d83-0bee-49b5-9c0b-98c541b4a717
+f48fd888-4411-448a-8934-46ff154c10e6,"Francisco, el Hombre",1,https://musicbrainz.org/artist/f48fd888-4411-448a-8934-46ff154c10e6,/artist/f48fd888-4411-448a-8934-46ff154c10e6
+0eb0cbde-6fab-4bbe-9b15-5d831b0d17cb,Walter Franco,1,https://musicbrainz.org/artist/0eb0cbde-6fab-4bbe-9b15-5d831b0d17cb,/artist/0eb0cbde-6fab-4bbe-9b15-5d831b0d17cb
+9c053c04-ab51-4661-b812-58f2bcff4ccb,François Muleka,1,https://musicbrainz.org/artist/9c053c04-ab51-4661-b812-58f2bcff4ccb,/artist/9c053c04-ab51-4661-b812-58f2bcff4ccb
+bd1fddbe-8c78-4d12-a789-c21f9f3c2d6d,Fredson,1,https://musicbrainz.org/artist/bd1fddbe-8c78-4d12-a789-c21f9f3c2d6d,/artist/bd1fddbe-8c78-4d12-a789-c21f9f3c2d6d
+e9c0b9d0-0c57-4e57-9a26-712d1711d481,Fukai,1,https://musicbrainz.org/artist/e9c0b9d0-0c57-4e57-9a26-712d1711d481,/artist/e9c0b9d0-0c57-4e57-9a26-712d1711d481
+8c4f52b0-2d86-4166-8b63-9b4eb4660d7f,Beto Furquim,1,https://musicbrainz.org/artist/8c4f52b0-2d86-4166-8b63-9b4eb4660d7f,/artist/8c4f52b0-2d86-4166-8b63-9b4eb4660d7f
+6687b04c-8b3a-44fa-91d4-77233880ac0e,Gabi Shima,1,https://musicbrainz.org/artist/6687b04c-8b3a-44fa-91d4-77233880ac0e,/artist/6687b04c-8b3a-44fa-91d4-77233880ac0e
+5aaf332c-1a4d-4c03-a585-aeafa2f663b8,Geraldo Vandré,1,https://musicbrainz.org/artist/5aaf332c-1a4d-4c03-a585-aeafa2f663b8,/artist/5aaf332c-1a4d-4c03-a585-aeafa2f663b8
+806f338e-4904-405c-8366-d716fcdb7f2c,Zé Geraldo,1,https://musicbrainz.org/artist/806f338e-4904-405c-8366-d716fcdb7f2c,/artist/806f338e-4904-405c-8366-d716fcdb7f2c
+8d08cabf-03a3-4f38-a815-8197a0984f19,Astrud Gilberto,1,https://musicbrainz.org/artist/8d08cabf-03a3-4f38-a815-8197a0984f19,/artist/8d08cabf-03a3-4f38-a815-8197a0984f19
+7169b325-505c-4daf-aa90-d3a84c112bc7,Gonzaguinha,1,https://musicbrainz.org/artist/7169b325-505c-4daf-aa90-d3a84c112bc7,/artist/7169b325-505c-4daf-aa90-d3a84c112bc7
+f8643bbb-8e01-4b9a-b022-879b8f5c690c,Lanny Gordin,1,https://musicbrainz.org/artist/f8643bbb-8e01-4b9a-b022-879b8f5c690c,/artist/f8643bbb-8e01-4b9a-b022-879b8f5c690c
+feb91f02-c0c3-48b3-b8ce-447029959d65,Graveola,1,https://musicbrainz.org/artist/feb91f02-c0c3-48b3-b8ce-447029959d65,/artist/feb91f02-c0c3-48b3-b8ce-447029959d65
+14aea021-97ec-48f0-b69b-8a177c7c72ad,Beto Guedes,1,https://musicbrainz.org/artist/14aea021-97ec-48f0-b69b-8a177c7c72ad,/artist/14aea021-97ec-48f0-b69b-8a177c7c72ad
+e226683c-9177-466d-91c2-1ac392698d8c,Heloá Holanda,1,https://musicbrainz.org/artist/e226683c-9177-466d-91c2-1ac392698d8c,/artist/e226683c-9177-466d-91c2-1ac392698d8c
+08450483-c037-442f-a675-37b9e8e77b2a,Francis Hime,1,https://musicbrainz.org/artist/08450483-c037-442f-a675-37b9e8e77b2a,/artist/08450483-c037-442f-a675-37b9e8e77b2a
+73fbdb2a-93fe-46b8-96ab-83840a8acad6,Ilma Brescia,1,https://musicbrainz.org/artist/73fbdb2a-93fe-46b8-96ab-83840a8acad6,/artist/73fbdb2a-93fe-46b8-96ab-83840a8acad6
+2cd7c5d2-2d5d-4753-91cb-e329ffa20f49,Marcelo Jeneci,1,https://musicbrainz.org/artist/2cd7c5d2-2d5d-4753-91cb-e329ffa20f49,/artist/2cd7c5d2-2d5d-4753-91cb-e329ffa20f49
+4f6d3722-fa69-46d8-a7e8-c85fd08aed26,Joanna,1,https://musicbrainz.org/artist/4f6d3722-fa69-46d8-a7e8-c85fd08aed26,/artist/4f6d3722-fa69-46d8-a7e8-c85fd08aed26
+9006dc24-d048-496b-8a82-e52c291db66c,João Donato,1,https://musicbrainz.org/artist/9006dc24-d048-496b-8a82-e52c291db66c,/artist/9006dc24-d048-496b-8a82-e52c291db66c
+97dc5b2c-d39d-4c3b-b825-a1384ec36d80,João e os Poetas de Cabelo Solto,1,https://musicbrainz.org/artist/97dc5b2c-d39d-4c3b-b825-a1384ec36d80,/artist/97dc5b2c-d39d-4c3b-b825-a1384ec36d80
+322807d6-eac5-4c82-8741-77d6029f1e60,João K,1,https://musicbrainz.org/artist/322807d6-eac5-4c82-8741-77d6029f1e60,/artist/322807d6-eac5-4c82-8741-77d6029f1e60
+7a8dbe84-f4c0-4457-bfa3-edced1f8cde0,Antônio Carlos Jobim,1,https://musicbrainz.org/artist/7a8dbe84-f4c0-4457-bfa3-edced1f8cde0,/artist/7a8dbe84-f4c0-4457-bfa3-edced1f8cde0
+c73d651d-87c9-4c5e-8abb-4ec9c4077241,Seu Jorge,1,https://musicbrainz.org/artist/c73d651d-87c9-4c5e-8abb-4ec9c4077241,/artist/c73d651d-87c9-4c5e-8abb-4ec9c4077241
+f47a0968-f2c1-4ec5-b0e3-0a15ae73b88d,Joyce,1,https://musicbrainz.org/artist/f47a0968-f2c1-4ec5-b0e3-0a15ae73b88d,/artist/f47a0968-f2c1-4ec5-b0e3-0a15ae73b88d
+7674e87d-1c56-4c73-a08e-24fc3902f152,Karina Buhr,1,https://musicbrainz.org/artist/7674e87d-1c56-4c73-a08e-24fc3902f152,/artist/7674e87d-1c56-4c73-a08e-24fc3902f152
+3a13549a-9578-4547-9308-4167816c51df,Nara Leão,1,https://musicbrainz.org/artist/3a13549a-9578-4547-9308-4167816c51df,/artist/3a13549a-9578-4547-9308-4167816c51df
+2f31098d-1258-4f8f-af5f-95815b02f2d2,Ivan Lins,1,https://musicbrainz.org/artist/2f31098d-1258-4f8f-af5f-95815b02f2d2,/artist/2f31098d-1258-4f8f-af5f-95815b02f2d2
+7b664497-5e1f-4dad-b34b-888a3bcd8059,Lucinha Lins,1,https://musicbrainz.org/artist/7b664497-5e1f-4dad-b34b-888a3bcd8059,/artist/7b664497-5e1f-4dad-b34b-888a3bcd8059
+e02d67b8-b581-478e-be33-c988627e4050,Edu Lobo,1,https://musicbrainz.org/artist/e02d67b8-b581-478e-be33-c988627e4050,/artist/e02d67b8-b581-478e-be33-c988627e4050
+2674d9a0-7647-4220-8c10-6d8d0c9677d9,Carlos Lyra,1,https://musicbrainz.org/artist/2674d9a0-7647-4220-8c10-6d8d0c9677d9,/artist/2674d9a0-7647-4220-8c10-6d8d0c9677d9
+446ac261-09ae-43f4-a7e1-2c753c0813ce,Tim Maia,1,https://musicbrainz.org/artist/446ac261-09ae-43f4-a7e1-2c753c0813ce,/artist/446ac261-09ae-43f4-a7e1-2c753c0813ce
+23582d36-44c4-4d91-ba24-a5facc72ea5a,Marcus Rasseli,1,https://musicbrainz.org/artist/23582d36-44c4-4d91-ba24-a5facc72ea5a,/artist/23582d36-44c4-4d91-ba24-a5facc72ea5a
+5186d327-70e7-4f96-bb83-d6c730982636,Pedro Mariano,1,https://musicbrainz.org/artist/5186d327-70e7-4f96-bb83-d6c730982636,/artist/5186d327-70e7-4f96-bb83-d6c730982636

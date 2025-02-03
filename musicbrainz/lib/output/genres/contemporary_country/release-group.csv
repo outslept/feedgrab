@@ -1,0 +1,101 @@
+id,name,count,url,related
+e1fbdc3d-2aa4-345d-ae0e-40bfb1552431,Fly,9,https://musicbrainz.org/release-group/e1fbdc3d-2aa4-345d-ae0e-40bfb1552431,/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+0cc16c89-5a02-3fb8-b10b-f6a910c475e4,Home,6,https://musicbrainz.org/release-group/0cc16c89-5a02-3fb8-b10b-f6a910c475e4,/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+e25c26bb-57e8-4c9f-9b66-8dbba5648e3a,My Kinda Party,6,https://musicbrainz.org/release-group/e25c26bb-57e8-4c9f-9b66-8dbba5648e3a,/artist/f24df11a-7e35-4979-a4db-a3b2a170ce27
+0532c91d-e099-3d5c-8fac-4711035f7297,Ropin’ the Wind,6,https://musicbrainz.org/release-group/0532c91d-e099-3d5c-8fac-4711035f7297,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+ff2e3f28-9d22-344e-a1bd-723e3d29525c,Sevens,6,https://musicbrainz.org/release-group/ff2e3f28-9d22-344e-a1bd-723e3d29525c,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+b6acdcaa-bb8b-3e05-a261-d491d361d656,Under the Influence,6,https://musicbrainz.org/release-group/b6acdcaa-bb8b-3e05-a261-d491d361d656,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+a2d6da6c-2b17-37b7-8957-7cb2956325ca,Breathe,5,https://musicbrainz.org/release-group/a2d6da6c-2b17-37b7-8957-7cb2956325ca,/artist/406552d4-5ba1-4226-b7c0-367bc50fc767
+d1054c8a-baee-3c87-a8df-e3c1ffa7e9c4,Everywhere We Go,5,https://musicbrainz.org/release-group/d1054c8a-baee-3c87-a8df-e3c1ffa7e9c4,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+3cbdd567-4bf0-3d82-aa8d-1e4b24d60389,Faith,5,https://musicbrainz.org/release-group/3cbdd567-4bf0-3d82-aa8d-1e4b24d60389,/artist/406552d4-5ba1-4226-b7c0-367bc50fc767
+c2df7dbd-8ffb-3518-849b-ea9eb35fcac6,"Greatest Hits, Volume II",5,https://musicbrainz.org/release-group/c2df7dbd-8ffb-3518-849b-ea9eb35fcac6,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+61bd1609-8fe4-3346-a842-5eee38851233,Horse of a Different Color,5,https://musicbrainz.org/release-group/61bd1609-8fe4-3346-a842-5eee38851233,/artist/9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec
+c5ffaf30-be63-4ff7-aa43-dd7f52827c21,I’m Comin’ Over,5,https://musicbrainz.org/release-group/c5ffaf30-be63-4ff7-aa43-dd7f52827c21,/artist/86de027e-097d-41b1-9b97-c0a69379ff4b
+3ff6b94c-1765-3d58-a6e0-edc7b552fcba,In Pieces,5,https://musicbrainz.org/release-group/3ff6b94c-1765-3d58-a6e0-edc7b552fcba,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+5931e769-4bf6-4531-a76e-b0dde9d8cc6e,Mr. Misunderstood,5,https://musicbrainz.org/release-group/5931e769-4bf6-4531-a76e-b0dde9d8cc6e,/artist/15856215-cc51-4423-879c-9ac955ccb11a
+089ee5fe-8f2e-308e-812c-f1913ee48f13,Relentless,5,https://musicbrainz.org/release-group/089ee5fe-8f2e-308e-812c-f1913ee48f13,/artist/f24df11a-7e35-4979-a4db-a3b2a170ce27
+11fbb2c5-a0d6-46ae-bf3d-539d50fc028f,The Big Revival,5,https://musicbrainz.org/release-group/11fbb2c5-a0d6-46ae-bf3d-539d50fc028f,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+e7f3e717-057e-3d5a-8ed8-b25acadb33de,The Road and the Radio,5,https://musicbrainz.org/release-group/e7f3e717-057e-3d5a-8ed8-b25acadb33de,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+aec992a3-da09-3bd8-83e7-9159b86205d5,The Ultimate Hits,5,https://musicbrainz.org/release-group/aec992a3-da09-3bd8-83e7-9159b86205d5,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+b865d199-bcbf-3f47-b63a-04e60d37128c,Who I Am,5,https://musicbrainz.org/release-group/b865d199-bcbf-3f47-b63a-04e60d37128c,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+aa59ec91-3d04-3fd1-a53c-96730b2afa75,Wide Open Spaces,5,https://musicbrainz.org/release-group/aa59ec91-3d04-3fd1-a53c-96730b2afa75,/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+6ed0a5e6-5e60-41f9-8b95-3ba459faf4b0,All About Tonight,4,https://musicbrainz.org/release-group/6ed0a5e6-5e60-41f9-8b95-3ba459faf4b0,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+c5157b2a-b9a0-4d98-94ce-6307e47d3881,All Over the Road,4,https://musicbrainz.org/release-group/c5157b2a-b9a0-4d98-94ce-6307e47d3881,/artist/c6ada25c-8590-4b75-8013-883a8df55882
+bec7ebff-9f41-3f61-ba48-fda8a2a0ef05,Be Here,4,https://musicbrainz.org/release-group/bec7ebff-9f41-3f61-ba48-fda8a2a0ef05,/artist/f45da029-7b00-4bf3-962c-0eeb20309cc4
+14e437ec-bf27-3a6c-a51f-9ccdce78b023,Between Raising Hell and Amazing Grace,4,https://musicbrainz.org/release-group/14e437ec-bf27-3a6c-a51f-9ccdce78b023,/artist/9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec
+980043dd-842f-3494-a529-d7ea390e9ef1,Blake Shelton’s Barn & Grill,4,https://musicbrainz.org/release-group/980043dd-842f-3494-a529-d7ea390e9ef1,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+35f5895e-f2ea-45d5-83e1-6ad843c66b6f,Bringing Back the Sunshine,4,https://musicbrainz.org/release-group/35f5895e-f2ea-45d5-83e1-6ad843c66b6f,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+45bcf3e0-a274-3bdd-9130-299a5ef780ea,Come On Over,4,https://musicbrainz.org/release-group/45bcf3e0-a274-3bdd-9130-299a5ef780ea,/artist/faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+225ba0bb-cb66-3582-a183-218dcabefb1a,Comin' to Your City,4,https://musicbrainz.org/release-group/225ba0bb-cb66-3582-a183-218dcabefb1a,/artist/9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec
+5e609d18-9e9b-3a93-b8a8-e90855b2a418,Contemporary Country: The Mid-'80s,4,https://musicbrainz.org/release-group/5e609d18-9e9b-3a93-b8a8-e90855b2a418,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+f758ae7a-7eb0-4986-8b23-62631016f1bc,Crash My Party,4,https://musicbrainz.org/release-group/f758ae7a-7eb0-4986-8b23-62631016f1bc,/artist/aab35942-f176-4f77-bbf9-1d6aa98ccf3f
+bed1d041-ff3f-3669-8352-5c527dce7a1e,Did I Shave My Legs for This?,4,https://musicbrainz.org/release-group/bed1d041-ff3f-3669-8352-5c527dce7a1e,/artist/49d04262-6389-4f51-829e-d8fd1b8b80fa
+a0ebe45d-e161-3f6d-b0c9-12a9fa107331,Dierks Bentley,4,https://musicbrainz.org/release-group/a0ebe45d-e161-3f6d-b0c9-12a9fa107331,/artist/6bd7faa9-601f-44db-a2a6-239209f83156
+e3d65bd2-1db3-35fe-9ec3-a407e0f629cc,Drive,4,https://musicbrainz.org/release-group/e3d65bd2-1db3-35fe-9ec3-a407e0f629cc,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+c98d564f-bc43-39d8-8f5e-351855a93bbb,Everything I Love,4,https://musicbrainz.org/release-group/c98d564f-bc43-39d8-8f5e-351855a93bbb,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+94235a30-f636-3f4b-acc2-62858bee9d5f,For the Record,4,https://musicbrainz.org/release-group/94235a30-f636-3f4b-acc2-62858bee9d5f,/artist/7ac055fa-e357-4890-9098-010b8094a900
+52bab202-d3af-3f77-9de7-06302791ab80,Garth Brooks,4,https://musicbrainz.org/release-group/52bab202-d3af-3f77-9de7-06302791ab80,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+461c5070-f5b9-3d02-ba09-537fa64cd987,Greatest Hits,4,https://musicbrainz.org/release-group/461c5070-f5b9-3d02-ba09-537fa64cd987,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+0ca1b7f4-2457-4336-a466-a1713c0291a9,Greatest Hits: Decade #1,4,https://musicbrainz.org/release-group/0ca1b7f4-2457-4336-a466-a1713c0291a9,/artist/70f0e309-5418-49b6-a130-666e2f76eecd
+a22324bb-ee44-3831-9fb6-670325f3a008,Jason Aldean,4,https://musicbrainz.org/release-group/a22324bb-ee44-3831-9fb6-670325f3a008,/artist/f24df11a-7e35-4979-a4db-a3b2a170ce27
+22ee5d09-7dd1-3789-b7f2-b93b85296aef,Like Red on a Rose,4,https://musicbrainz.org/release-group/22ee5d09-7dd1-3789-b7f2-b93b85296aef,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+1cf236ff-1a84-3378-9d60-323dea5a9c34,Living Hard,4,https://musicbrainz.org/release-group/1cf236ff-1a84-3378-9d60-323dea5a9c34,/artist/d211333a-22eb-4be7-a2ac-ca12c73646db
+85e4ae22-c575-301c-87c9-4602abfbdd5e,Me and You,4,https://musicbrainz.org/release-group/85e4ae22-c575-301c-87c9-4602abfbdd5e,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+c8baeb39-c330-3e4c-b363-c14aa1af4ca4,Modern Day Drifter,4,https://musicbrainz.org/release-group/c8baeb39-c330-3e4c-b363-c14aa1af4ca4,/artist/6bd7faa9-601f-44db-a2a6-239209f83156
+d4377787-0d92-3902-997a-feb75f4dee2d,No Fences,4,https://musicbrainz.org/release-group/d4377787-0d92-3902-997a-feb75f4dee2d,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+5c9bbe35-42fb-3dc7-bdf4-f1246313fb4d,"No Shoes, No Shirt, No Problems",4,https://musicbrainz.org/release-group/5c9bbe35-42fb-3dc7-bdf4-f1246313fb4d,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+1ed94d27-6701-39de-a68f-f6c4c2517421,One More Day,4,https://musicbrainz.org/release-group/1ed94d27-6701-39de-a68f-f6c4c2517421,/artist/d1da3f8d-3b16-468f-a1b2-9a8d9b138bc6
+bc0e6b8b-a596-3caa-bbc1-46cc900cd3d2,Out With a Bang,4,https://musicbrainz.org/release-group/bc0e6b8b-a596-3caa-bbc1-46cc900cd3d2,/artist/f395af92-1289-4ae8-95c4-871e4fc3ccfd
+4771916e-9954-30e0-ba0d-2725cd8cc2ed,See If I Care,4,https://musicbrainz.org/release-group/4771916e-9954-30e0-ba0d-2725cd8cc2ed,/artist/d211333a-22eb-4be7-a2ac-ca12c73646db
+ba1259eb-d41e-41c5-a70c-0e6fa73e6708,Speak Now,4,https://musicbrainz.org/release-group/ba1259eb-d41e-41c5-a70c-0e6fa73e6708,/artist/20244d07-534f-4eff-b4d4-930878889970
+fc00aa5e-1e0e-3558-bd11-026e78ed8526,Take Me as I Am,4,https://musicbrainz.org/release-group/fc00aa5e-1e0e-3558-bd11-026e78ed8526,/artist/406552d4-5ba1-4226-b7c0-367bc50fc767
+49359749-f558-3566-b72b-00c1b5a2e328,Taking the Long Way,4,https://musicbrainz.org/release-group/49359749-f558-3566-b72b-00c1b5a2e328,/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+ba1d0c2a-bb07-38bc-835c-a880f76f1309,Taylor Swift,4,https://musicbrainz.org/release-group/ba1d0c2a-bb07-38bc-835c-a880f76f1309,/artist/20244d07-534f-4eff-b4d4-930878889970
+ef17967a-296b-3d3b-a59b-758ff5b1caae,The Hits,4,https://musicbrainz.org/release-group/ef17967a-296b-3d3b-a59b-758ff5b1caae,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+f4b7d3e6-059a-4846-9eab-014e37d47290,Up!,4,https://musicbrainz.org/release-group/f4b7d3e6-059a-4846-9eab-014e37d47290,/artist/faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+7e761dbb-61bb-38d4-a1a3-85a423c043cf,What I Do,4,https://musicbrainz.org/release-group/7e761dbb-61bb-38d4-a1a3-85a423c043cf,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+ff789a0e-1582-32b4-9397-4808fb9d4160,When the Sun Goes Down,4,https://musicbrainz.org/release-group/ff789a0e-1582-32b4-9397-4808fb9d4160,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+6b64d8b3-3e9e-3e75-97d1-f17c18a9dc57,5th Gear,3,https://musicbrainz.org/release-group/6b64d8b3-3e9e-3e75-97d1-f17c18a9dc57,/artist/6cfd7ffc-824f-4219-8e27-4b9417700f44
+a6f25438-387e-3be2-9803-8e24631a9fa9,20th Century Masters: The Millennium Collection: The Best of Patty Loveless,3,https://musicbrainz.org/release-group/a6f25438-387e-3be2-9803-8e24631a9fa9,/artist/e6cb4a73-6253-41c9-9450-f1862d30584e
+dab9ff41-9d3c-463b-9b61-2c32d7488f10,25 Anniversary Celebration,3,https://musicbrainz.org/release-group/dab9ff41-9d3c-463b-9b61-2c32d7488f10,/artist/09b697e3-a849-4670-ae49-e0b821a6271a
+25da2a44-1cf4-3422-9818-46d8e6239587,50 Number Ones,3,https://musicbrainz.org/release-group/25da2a44-1cf4-3422-9818-46d8e6239587,/artist/5ab2cf34-517e-48eb-b3a5-34e1cbcd600a
+157b4ba0-2d93-335f-9882-7f284344a93b,A Man Ain’t Made of Stone,3,https://musicbrainz.org/release-group/157b4ba0-2d93-335f-9882-7f284344a93b,/artist/09b697e3-a849-4670-ae49-e0b821a6271a
+016e0a03-51cf-39dd-ad80-5a17f2ae7a77,All Jacked Up,3,https://musicbrainz.org/release-group/016e0a03-51cf-39dd-ad80-5a17f2ae7a77,/artist/11d9fc14-e6ac-4c50-81e7-062dd82566ce
+4b0efd4d-6b49-35d5-aed4-a6cd30a27ebe,Always & Forever,3,https://musicbrainz.org/release-group/4b0efd4d-6b49-35d5-aed4-a6cd30a27ebe,/artist/09b697e3-a849-4670-ae49-e0b821a6271a
+aca4ccc8-5d1b-361e-ab21-396b2c6d42d3,American IV: The Man Comes Around,3,https://musicbrainz.org/release-group/aca4ccc8-5d1b-361e-ab21-396b2c6d42d3,/artist/d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+ad428872-2b62-407e-a8a9-4a04439ab1f7,American Saturday Night,3,https://musicbrainz.org/release-group/ad428872-2b62-407e-a8a9-4a04439ab1f7,/artist/6cfd7ffc-824f-4219-8e27-4b9417700f44
+e2b0d904-4d0d-4ead-bb6e-72219340bb06,Based on a True Story…,3,https://musicbrainz.org/release-group/e2b0d904-4d0d-4ead-bb6e-72219340bb06,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+547e2c4b-8a58-39da-846d-f9067ccbbe56,Be As You Are: Songs From an Old Blue Chair,3,https://musicbrainz.org/release-group/547e2c4b-8a58-39da-846d-f9067ccbbe56,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+720a2234-52b8-4d47-a511-5dd235ac6f17,Black,3,https://musicbrainz.org/release-group/720a2234-52b8-4d47-a511-5dd235ac6f17,/artist/6bd7faa9-601f-44db-a2a6-239209f83156
+6f052ba8-11eb-4fda-8c06-97e11f881864,California Sunrise,3,https://musicbrainz.org/release-group/6f052ba8-11eb-4fda-8c06-97e11f881864,/artist/ad590765-191c-4c07-9d64-49633488e9a8
+00df7500-453d-3339-8ae7-0633e6e59093,Carnival Ride,3,https://musicbrainz.org/release-group/00df7500-453d-3339-8ae7-0633e6e59093,/artist/70f0e309-5418-49b6-a130-666e2f76eecd
+43a50cd3-205a-4a73-89a5-a326042e5ba9,Carolina,3,https://musicbrainz.org/release-group/43a50cd3-205a-4a73-89a5-a326042e5ba9,/artist/15856215-cc51-4423-879c-9ac955ccb11a
+e5032b0f-5f92-3bd0-81e2-d0377729f1c8,Completely,3,https://musicbrainz.org/release-group/e5032b0f-5f92-3bd0-81e2-d0377729f1c8,/artist/d1da3f8d-3b16-468f-a1b2-9a8d9b138bc6
+6750be5b-a3e5-34b1-874c-8537e76aa3e6,"Contemporary Country: The Late '80s, Pure Gold",3,https://musicbrainz.org/release-group/6750be5b-a3e5-34b1-874c-8537e76aa3e6,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+6aeabe8e-3e5a-4138-98c2-6f6f9d401edb,"Contemporary Country: The Late ’70s, Pure Gold",3,https://musicbrainz.org/release-group/6aeabe8e-3e5a-4138-98c2-6f6f9d401edb,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+85a6f160-c975-3410-b579-ce8495426d74,"Contemporary Country: The Mid '70s, Pure Gold",3,https://musicbrainz.org/release-group/85a6f160-c975-3410-b579-ce8495426d74,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+a38004de-4079-3535-93da-dd439cf1277b,Contemporary Country: The Mid-’70s,3,https://musicbrainz.org/release-group/a38004de-4079-3535-93da-dd439cf1277b,/artist/89ad4ac3-39f7-470e-963a-56509c546377
+aef7ef21-bd0c-4dc3-bc04-f7e0100f8322,Cosmic Hallelujah,3,https://musicbrainz.org/release-group/aef7ef21-bd0c-4dc3-bc04-f7e0100f8322,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+368647dc-fb5d-3a08-8a15-e0256d04dc18,Enjoy the Ride,3,https://musicbrainz.org/release-group/368647dc-fb5d-3a08-8a15-e0256d04dc18,/artist/f87b740a-c22b-4fae-9987-1f3e16f840c4
+9b160d7f-b85f-3dfb-86bd-e66c90d9da9a,Every Time You Say Goodbye,3,https://musicbrainz.org/release-group/9b160d7f-b85f-3dfb-86bd-e66c90d9da9a,/artist/b91c664b-5eee-4536-8b70-b1f2be519ac0
+b46e8636-7d2f-38fb-9921-b4627d21c74f,Family,3,https://musicbrainz.org/release-group/b46e8636-7d2f-38fb-9921-b4627d21c74f,/artist/9092d8e1-9b38-4372-a96d-000b8561a8bc
+eba6aeeb-7060-3b1e-965c-08b57f5d4fde,Forget About It,3,https://musicbrainz.org/release-group/eba6aeeb-7060-3b1e-965c-08b57f5d4fde,/artist/6b064ead-91a4-4ac8-8076-b1febe4f4aac
+36a90be8-0d18-3009-a20a-2dcfd4942ad6,Fresh Horses,3,https://musicbrainz.org/release-group/36a90be8-0d18-3009-a20a-2dcfd4942ad6,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45
+60e46584-d91a-41f2-9c80-9fc530c0a60d,Get Off on the Pain,3,https://musicbrainz.org/release-group/60e46584-d91a-41f2-9c80-9fc530c0a60d,/artist/d211333a-22eb-4be7-a2ac-ca12c73646db
+a7bf192f-66f5-3de8-b3e1-6bc4642b0c23,Greatest Hits III,3,https://musicbrainz.org/release-group/a7bf192f-66f5-3de8-b3e1-6bc4642b0c23,/artist/7ac055fa-e357-4890-9098-010b8094a900
+f9a34216-ce55-3469-996f-88010690cc11,"Greatest Hits, Vol. 2: Reflected",3,https://musicbrainz.org/release-group/f9a34216-ce55-3469-996f-88010690cc11,/artist/7e5cfc9a-e9e1-46f1-b81a-861b12049488
+5c080b31-73f8-3106-bfca-cf8908804db6,Her Story: Scenes From a Lifetime,3,https://musicbrainz.org/release-group/5c080b31-73f8-3106-bfca-cf8908804db6,/artist/47d5e136-57cc-4a82-9263-c5ec5ab7e2ee
+2d363c03-4e2a-3765-8681-af5e5490eb2b,Here in the Real World,3,https://musicbrainz.org/release-group/2d363c03-4e2a-3765-8681-af5e5490eb2b,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+d1a54636-c37d-335d-afa9-1cbe232cacee,High Lonesome,3,https://musicbrainz.org/release-group/d1a54636-c37d-335d-afa9-1cbe232cacee,/artist/09b697e3-a849-4670-ae49-e0b821a6271a
+bd02d264-acf1-376d-854d-885ed9dd28bd,High Mileage,3,https://musicbrainz.org/release-group/bd02d264-acf1-376d-854d-885ed9dd28bd,/artist/7291957b-c463-4275-a41c-a104c9e2337f
+8231aa68-ddb0-4440-8c1a-d214b4d884bc,Hillbilly Bone,3,https://musicbrainz.org/release-group/8231aa68-ddb0-4440-8c1a-d214b4d884bc,/artist/2ad66473-ccb3-41d2-8756-b56680cdfe62
+ddf88aa1-c9b5-3ffe-a63a-59745e3bfbbc,I Will Stand,3,https://musicbrainz.org/release-group/ddf88aa1-c9b5-3ffe-a63a-59745e3bfbbc,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+d2acab03-348c-30c2-8b91-66b59dfa6f70,In My Wildest Dreams,3,https://musicbrainz.org/release-group/d2acab03-348c-30c2-8b91-66b59dfa6f70,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+083c9a24-bfbc-3936-a6d1-4930c5882f2d,It Matters to Me,3,https://musicbrainz.org/release-group/083c9a24-bfbc-3936-a6d1-4930c5882f2d,/artist/406552d4-5ba1-4226-b7c0-367bc50fc767
+9d12b51c-b28c-4244-9a80-f3d6087069cc,Jo Dee Messina,3,https://musicbrainz.org/release-group/9d12b51c-b28c-4244-9a80-f3d6087069cc,/artist/3f8ee838-9e81-4a22-975a-bce739631165
+9e1f86cd-66da-354f-9386-b997711f7c9e,Let It Go,3,https://musicbrainz.org/release-group/9e1f86cd-66da-354f-9386-b997711f7c9e,/artist/7e5cfc9a-e9e1-46f1-b81a-861b12049488
+da3ea863-996f-33c9-a441-8675760f2733,Live,3,https://musicbrainz.org/release-group/da3ea863-996f-33c9-a441-8675760f2733,/artist/b91c664b-5eee-4536-8b70-b1f2be519ac0
+5ba96723-cef3-3cc2-9f8e-2597149f7330,Live: Live Those Songs Again,3,https://musicbrainz.org/release-group/5ba96723-cef3-3cc2-9f8e-2597149f7330,/artist/5dca4d22-d6c8-4e70-8ca1-4543e43353c7
+d2e56af8-cdc8-3c75-a5c2-1fb11b0f887a,Lonely Grill,3,https://musicbrainz.org/release-group/d2e56af8-cdc8-3c75-a5c2-1fb11b0f887a,/artist/407592bd-6b6e-4803-80fd-f17e59446734
+9e605084-d925-4a8e-80c8-983efbfdcbf0,Moonshine in the Trunk,3,https://musicbrainz.org/release-group/9e605084-d925-4a8e-80c8-983efbfdcbf0,/artist/6cfd7ffc-824f-4219-8e27-4b9417700f44
+7d23774d-25c2-3044-a893-eaecbb2ef05d,More Than a Memory,3,https://musicbrainz.org/release-group/7d23774d-25c2-3044-a893-eaecbb2ef05d,/artist/b76645c5-78b0-4e4c-8f95-003f40013a45

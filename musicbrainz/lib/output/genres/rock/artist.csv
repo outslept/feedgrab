@@ -1,0 +1,101 @@
+id,name,count,url,related
+b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,40,https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+0383dadf-2a4e-4d10-a46a-e9e041da8eb3,Queen,35,https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3,/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3
+b071f9fa-14b0-4217-8e97-eb41da73f598,The Rolling Stones,31,https://musicbrainz.org/artist/b071f9fa-14b0-4217-8e97-eb41da73f598,/artist/b071f9fa-14b0-4217-8e97-eb41da73f598
+83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,25,https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47,/artist/83d91898-7763-47d7-b03b-b92132375c47
+678d88b2-87b0-403b-b63d-5da7465aecc3,Led Zeppelin,20,https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3,/artist/678d88b2-87b0-403b-b63d-5da7465aecc3
+5b11f4ce-a62d-471e-81fc-a69a8278c7da,Nirvana,19,https://musicbrainz.org/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da,/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da
+9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa,The Who,19,https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa,/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
+614e3804-7d34-41ba-857f-811bad7c2b7a,Dire Straits,18,https://musicbrainz.org/artist/614e3804-7d34-41ba-857f-811bad7c2b7a,/artist/614e3804-7d34-41ba-857f-811bad7c2b7a
+67f66c07-6e61-4026-ade5-7e782fad3a5d,Foo Fighters,17,https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d,/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d
+8bfac288-ccc5-448d-9573-c33ea2aa5c30,Red Hot Chili Peppers,17,https://musicbrainz.org/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30,/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30
+bd13909f-1c29-4c27-a874-d4aaf27c5b1a,Fleetwood Mac,16,https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a,/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a
+9c9f1380-2516-4fc9-a3e6-f9f61941d090,Muse,15,https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090,/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090
+66c662b6-6e2f-4930-8610-912e24c63ed1,AC/DC,14,https://musicbrainz.org/artist/66c662b6-6e2f-4930-8610-912e24c63ed1,/artist/66c662b6-6e2f-4930-8610-912e24c63ed1
+70248960-cb53-4ea4-943a-edb18f7d336f,Bruce Springsteen,14,https://musicbrainz.org/artist/70248960-cb53-4ea4-943a-edb18f7d336f,/artist/70248960-cb53-4ea4-943a-edb18f7d336f
+5dcdb5eb-cb72-4e6e-9e63-b7bace604965,Bon Jovi,13,https://musicbrainz.org/artist/5dcdb5eb-cb72-4e6e-9e63-b7bace604965,/artist/5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+79491354-3d83-40e3-9d8e-7592d58d790a,Deep Purple,13,https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a,/artist/79491354-3d83-40e3-9d8e-7592d58d790a
+f59c5520-5f46-4d2c-b2c4-822eabf53419,Linkin Park,13,https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419,/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419
+a74b1b7f-71a5-4011-9441-d0b5e4122711,Radiohead,13,https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711,/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711
+f46bd570-5768-462e-b84c-c7c993bbf47e,Eagles,10,https://musicbrainz.org/artist/f46bd570-5768-462e-b84c-c7c993bbf47e,/artist/f46bd570-5768-462e-b84c-c7c993bbf47e
+bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9,Heart,10,https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9,/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9
+534ee493-bfac-4575-a44a-0ae41e2c3fe4,Rush,10,https://musicbrainz.org/artist/534ee493-bfac-4575-a44a-0ae41e2c3fe4,/artist/534ee493-bfac-4575-a44a-0ae41e2c3fe4
+0d8b0d50-e4cf-4da4-965d-f24c58ec3268,Boston,9,https://musicbrainz.org/artist/0d8b0d50-e4cf-4da4-965d-f24c58ec3268,/artist/0d8b0d50-e4cf-4da4-965d-f24c58ec3268
+160629ab-ec18-4931-8c95-02cb92d06186,Foreigner,9,https://musicbrainz.org/artist/160629ab-ec18-4931-8c95-02cb92d06186,/artist/160629ab-ec18-4931-8c95-02cb92d06186
+6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6,Grateful Dead,9,https://musicbrainz.org/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6,/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6
+084308bd-1654-436f-ba03-df6697104e19,Green Day,9,https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19,/artist/084308bd-1654-436f-ba03-df6697104e19
+4d5447d7-c61c-4120-ba1b-d7f471d385b9,John Lennon,9,https://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9,/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9
+e01646f2-2a04-450d-8bf2-0d993082e058,Phish,9,https://musicbrainz.org/artist/e01646f2-2a04-450d-8bf2-0d993082e058,/artist/e01646f2-2a04-450d-8bf2-0d993082e058
+a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,9,https://musicbrainz.org/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+75167b8b-44e4-407b-9d35-effe87b223cf,Neil Young,9,https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf,/artist/75167b8b-44e4-407b-9d35-effe87b223cf
+e20747e7-55a4-452e-8766-7b985585082d,Frank Zappa,9,https://musicbrainz.org/artist/e20747e7-55a4-452e-8766-7b985585082d,/artist/e20747e7-55a4-452e-8766-7b985585082d
+3f5be744-e867-42fb-8913-5fd69e4099b5,Chicago,8,https://musicbrainz.org/artist/3f5be744-e867-42fb-8913-5fd69e4099b5,/artist/3f5be744-e867-42fb-8913-5fd69e4099b5
+588dea29-eea3-456b-a815-3ee04f75c8e7,The Doobie Brothers,8,https://musicbrainz.org/artist/588dea29-eea3-456b-a815-3ee04f75c8e7,/artist/588dea29-eea3-456b-a815-3ee04f75c8e7
+9efff43b-3b29-4082-824e-bc82f646f93d,The Doors,8,https://musicbrainz.org/artist/9efff43b-3b29-4082-824e-bc82f646f93d,/artist/9efff43b-3b29-4082-824e-bc82f646f93d
+72c536dc-7137-4477-a521-567eeb840fa8,Bob Dylan,8,https://musicbrainz.org/artist/72c536dc-7137-4477-a521-567eeb840fa8,/artist/72c536dc-7137-4477-a521-567eeb840fa8
+abd506e1-6f2b-4d6f-b937-92c267f6f88b,Journey,8,https://musicbrainz.org/artist/abd506e1-6f2b-4d6f-b937-92c267f6f88b,/artist/abd506e1-6f2b-4d6f-b937-92c267f6f88b
+57961a97-3796-4bf7-9f02-a985a8979ae9,Motörhead,8,https://musicbrainz.org/artist/57961a97-3796-4bf7-9f02-a985a8979ae9,/artist/57961a97-3796-4bf7-9f02-a985a8979ae9
+21ca7b29-bd01-4a06-b245-98caf7611837,Eddie Rubin,8,https://musicbrainz.org/artist/21ca7b29-bd01-4a06-b245-98caf7611837,/artist/21ca7b29-bd01-4a06-b245-98caf7611837
+cca75e67-285d-490e-afc7-04b45544f20f,Sadistic Divine,8,https://musicbrainz.org/artist/cca75e67-285d-490e-afc7-04b45544f20f,/artist/cca75e67-285d-490e-afc7-04b45544f20f
+d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8,Supertramp,8,https://musicbrainz.org/artist/d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8,/artist/d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8
+aab5c954-cabe-432e-899e-1c4f99757327,Toto,8,https://musicbrainz.org/artist/aab5c954-cabe-432e-899e-1c4f99757327,/artist/aab5c954-cabe-432e-899e-1c4f99757327
+6fe07aa5-fec0-4eca-a456-f29bff451b04,Weezer,8,https://musicbrainz.org/artist/6fe07aa5-fec0-4eca-a456-f29bff451b04,/artist/6fe07aa5-fec0-4eca-a456-f29bff451b04
+a81259a0-a2f5-464b-866e-71220f2739f1,ZZ Top,8,https://musicbrainz.org/artist/a81259a0-a2f5-464b-866e-71220f2739f1,/artist/a81259a0-a2f5-464b-866e-71220f2739f1
+3d2b98e5-556f-4451-a3ff-c50ea18d57cb,Aerosmith,7,https://musicbrainz.org/artist/3d2b98e5-556f-4451-a3ff-c50ea18d57cb,/artist/3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+618b6900-0618-4f1e-b835-bccb17f84294,Eric Clapton,7,https://musicbrainz.org/artist/618b6900-0618-4f1e-b835-bccb17f84294,/artist/618b6900-0618-4f1e-b835-bccb17f84294
+109958eb-a335-4c5e-907e-597ff4c6af46,Creedence Clearwater Revival,7,https://musicbrainz.org/artist/109958eb-a335-4c5e-907e-597ff4c6af46,/artist/109958eb-a335-4c5e-907e-597ff4c6af46
+481bf5f9-2e7c-4c44-b08a-05b32bc7c00d,INXS,7,https://musicbrainz.org/artist/481bf5f9-2e7c-4c44-b08a-05b32bc7c00d,/artist/481bf5f9-2e7c-4c44-b08a-05b32bc7c00d
+76c9a186-75bd-436a-85c0-823e3efddb7f,Janis Joplin,7,https://musicbrainz.org/artist/76c9a186-75bd-436a-85c0-823e3efddb7f,/artist/76c9a186-75bd-436a-85c0-823e3efddb7f
+17b53d9f-5c63-4a09-a593-dde4608e0db9,The Kinks,7,https://musicbrainz.org/artist/17b53d9f-5c63-4a09-a593-dde4608e0db9,/artist/17b53d9f-5c63-4a09-a593-dde4608e0db9
+0ef3f425-9bd2-4216-9dd2-219d2fe90f1f,Lenny Kravitz,7,https://musicbrainz.org/artist/0ef3f425-9bd2-4216-9dd2-219d2fe90f1f,/artist/0ef3f425-9bd2-4216-9dd2-219d2fe90f1f
+f93dbc64-6f08-4033-bcc7-8a0bb4689849,Tom Petty and the Heartbreakers,7,https://musicbrainz.org/artist/f93dbc64-6f08-4033-bcc7-8a0bb4689849,/artist/f93dbc64-6f08-4033-bcc7-8a0bb4689849
+ae6176bf-6080-4852-9b21-1af9de107f48,Hamid Sarami,7,https://musicbrainz.org/artist/ae6176bf-6080-4852-9b21-1af9de107f48,/artist/ae6176bf-6080-4852-9b21-1af9de107f48
+4dbf5678-7a31-406a-abbe-232f8ac2cd63,Bryan Adams,6,https://musicbrainz.org/artist/4dbf5678-7a31-406a-abbe-232f8ac2cd63,/artist/4dbf5678-7a31-406a-abbe-232f8ac2cd63
+3e55d51d-687f-4a9d-af96-2fabccf802e5,The Cardigans,6,https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5,/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5
+32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb,Joe Cocker,6,https://musicbrainz.org/artist/32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb,/artist/32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb
+cbf9738d-8f81-4a92-bc64-ede09341652d,Chris Cornell,6,https://musicbrainz.org/artist/cbf9738d-8f81-4a92-bc64-ede09341652d,/artist/cbf9738d-8f81-4a92-bc64-ede09341652d
+c98d40fd-f6cf-4b26-883e-eaa515ee2851,The Cranberries,6,https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851,/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851
+7e9bd05a-117f-4cce-87bc-e011527a8b18,Miley Cyrus,6,https://musicbrainz.org/artist/7e9bd05a-117f-4cce-87bc-e011527a8b18,/artist/7e9bd05a-117f-4cce-87bc-e011527a8b18
+a97f393a-13a7-4645-8bba-f10bd22d7228,DREAMCATCHER,6,https://musicbrainz.org/artist/a97f393a-13a7-4645-8bba-f10bd22d7228,/artist/a97f393a-13a7-4645-8bba-f10bd22d7228
+103241b0-6adf-4b4f-9cff-5c87459f61a4,Grand Funk Railroad,6,https://musicbrainz.org/artist/103241b0-6adf-4b4f-9cff-5c87459f61a4,/artist/103241b0-6adf-4b4f-9cff-5c87459f61a4
+06fb1c8b-566e-4cb2-985b-b467c90781d4,Jimi Hendrix,6,https://musicbrainz.org/artist/06fb1c8b-566e-4cb2-985b-b467c90781d4,/artist/06fb1c8b-566e-4cb2-985b-b467c90781d4
+47c8f88b-987a-4b64-9175-2b1b57809727,Billy Idol,6,https://musicbrainz.org/artist/47c8f88b-987a-4b64-9175-2b1b57809727,/artist/47c8f88b-987a-4b64-9175-2b1b57809727
+07e748f1-075e-428d-85dc-ce3be434e906,Dave Matthews Band,6,https://musicbrainz.org/artist/07e748f1-075e-428d-85dc-ce3be434e906,/artist/07e748f1-075e-428d-85dc-ce3be434e906
+39ab1aed-75e0-4140-bd47-540276886b60,Oasis,6,https://musicbrainz.org/artist/39ab1aed-75e0-4140-bd47-540276886b60,/artist/39ab1aed-75e0-4140-bd47-540276886b60
+9e0e2b01-41db-4008-bd8b-988977d6019a,The Police,6,https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a,/artist/9e0e2b01-41db-4008-bd8b-988977d6019a
+e9c832b0-384b-4ee6-aec0-111372784aac,Pretenders,6,https://musicbrainz.org/artist/e9c832b0-384b-4ee6-aec0-111372784aac,/artist/e9c832b0-384b-4ee6-aec0-111372784aac
+9d1ebcfe-4c15-4d18-95d3-d919898638a1,Lou Reed,6,https://musicbrainz.org/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1,/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1
+bdc70372-7e8a-4cb9-8d33-f036b3b7cdc1,REO Speedwagon,6,https://musicbrainz.org/artist/bdc70372-7e8a-4cb9-8d33-f036b3b7cdc1,/artist/bdc70372-7e8a-4cb9-8d33-f036b3b7cdc1
+9a3bf45c-347d-4630-894d-7cf3e8e0b632,Santana,6,https://musicbrainz.org/artist/9a3bf45c-347d-4630-894d-7cf3e8e0b632,/artist/9a3bf45c-347d-4630-894d-7cf3e8e0b632
+1884ed9c-6fe1-468d-a7f8-8d19c9c4e441,Status Quo,6,https://musicbrainz.org/artist/1884ed9c-6fe1-468d-a7f8-8d19c9c4e441,/artist/1884ed9c-6fe1-468d-a7f8-8d19c9c4e441
+94b0fb9d-a066-4823-b2ec-af1d324bcfcf,The Velvet Underground,6,https://musicbrainz.org/artist/94b0fb9d-a066-4823-b2ec-af1d324bcfcf,/artist/94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+d922d727-240a-4432-9a88-05a7cf9bc403,Wings,6,https://musicbrainz.org/artist/d922d727-240a-4432-9a88-05a7cf9bc403,/artist/d922d727-240a-4432-9a88-05a7cf9bc403
+4d7928cd-7ed2-4282-8c29-c0c9f966f1bd,Alice Cooper,5,https://musicbrainz.org/artist/4d7928cd-7ed2-4282-8c29-c0c9f966f1bd,/artist/4d7928cd-7ed2-4282-8c29-c0c9f966f1bd
+34cf95c7-4be9-4efd-a48a-c2ea4a0bb114,America,5,https://musicbrainz.org/artist/34cf95c7-4be9-4efd-a48a-c2ea4a0bb114,/artist/34cf95c7-4be9-4efd-a48a-c2ea4a0bb114
+12327d75-47d5-45d9-84c2-3760b9210c17,Syd Barrett,5,https://musicbrainz.org/artist/12327d75-47d5-45d9-84c2-3760b9210c17,/artist/12327d75-47d5-45d9-84c2-3760b9210c17
+6bc658ea-005f-486b-8f94-33a2e40f7a72,Pat Benatar,5,https://musicbrainz.org/artist/6bc658ea-005f-486b-8f94-33a2e40f7a72,/artist/6bc658ea-005f-486b-8f94-33a2e40f7a72
+d15721d8-56b4-453d-b506-fc915b14cba2,The Black Keys,5,https://musicbrainz.org/artist/d15721d8-56b4-453d-b506-fc915b14cba2,/artist/d15721d8-56b4-453d-b506-fc915b14cba2
+c7423e0c-ab3e-4ab4-be10-cdff5a9d3062,Blue Öyster Cult,5,https://musicbrainz.org/artist/c7423e0c-ab3e-4ab4-be10-cdff5a9d3062,/artist/c7423e0c-ab3e-4ab4-be10-cdff5a9d3062
+5441c29d-3602-4898-b1a1-b77fa23b8e50,David Bowie,5,https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50,/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50
+04cd0cfd-bfd1-4c36-bc38-95c35e2c045f,Cream,5,https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f,/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f
+7249b899-8db8-43e7-9e6e-22f1e736024e,Def Leppard,5,https://musicbrainz.org/artist/7249b899-8db8-43e7-9e6e-22f1e736024e,/artist/7249b899-8db8-43e7-9e6e-22f1e736024e
+a42d3fd5-55de-4206-86c3-4fbb5404018f,Neil Diamond,5,https://musicbrainz.org/artist/a42d3fd5-55de-4206-86c3-4fbb5404018f,/artist/a42d3fd5-55de-4206-86c3-4fbb5404018f
+1dce970e-34bc-48b2-ab51-48d87544a4c2,David Gilmour,5,https://musicbrainz.org/artist/1dce970e-34bc-48b2-ab51-48d87544a4c2,/artist/1dce970e-34bc-48b2-ab51-48d87544a4c2
+75336c3d-2833-46cb-8037-b835cd7d646d,Golden Earring,5,https://musicbrainz.org/artist/75336c3d-2833-46cb-8037-b835cd7d646d,/artist/75336c3d-2833-46cb-8037-b835cd7d646d
+4c567499-3a26-40e3-9471-20feb6c73767,The Guess Who,5,https://musicbrainz.org/artist/4c567499-3a26-40e3-9471-20feb6c73767,/artist/4c567499-3a26-40e3-9471-20feb6c73767
+e68b06a4-d47f-432e-89d8-db43c48a2726,Sammy Hagar,5,https://musicbrainz.org/artist/e68b06a4-d47f-432e-89d8-db43c48a2726,/artist/e68b06a4-d47f-432e-89d8-db43c48a2726
+2e229823-0fc2-438b-aacb-5de02bd0b9b7,Deborah Harry,5,https://musicbrainz.org/artist/2e229823-0fc2-438b-aacb-5de02bd0b9b7,/artist/2e229823-0fc2-438b-aacb-5de02bd0b9b7
+d352f5dd-3023-4565-a7bb-52396bf8821d,Buddy Holly,5,https://musicbrainz.org/artist/d352f5dd-3023-4565-a7bb-52396bf8821d,/artist/d352f5dd-3023-4565-a7bb-52396bf8821d
+076caf66-1bb1-4486-8f46-910c83441eab,Indochine,5,https://musicbrainz.org/artist/076caf66-1bb1-4486-8f46-910c83441eab,/artist/076caf66-1bb1-4486-8f46-910c83441eab
+39c2a93d-9afa-4a22-9bba-c087ab056e1c,Jefferson Airplane,5,https://musicbrainz.org/artist/39c2a93d-9afa-4a22-9bba-c087ab056e1c,/artist/39c2a93d-9afa-4a22-9bba-c087ab056e1c
+ece57992-dc2e-4f67-a269-fa43626c1a3d,Jethro Tull,5,https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d,/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d
+b83bc61f-8451-4a5d-8b8e-7e9ed295e822,Elton John,5,https://musicbrainz.org/artist/b83bc61f-8451-4a5d-8b8e-7e9ed295e822,/artist/b83bc61f-8451-4a5d-8b8e-7e9ed295e822
+ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,Kid Rock,5,https://musicbrainz.org/artist/ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,/artist/ad0ecd8b-805e-406e-82cb-5b00c3a3a29e
+e1f1e33e-2e4c-4d43-b91b-7064068d3283,KISS,5,https://musicbrainz.org/artist/e1f1e33e-2e4c-4d43-b91b-7064068d3283,/artist/e1f1e33e-2e4c-4d43-b91b-7064068d3283
+c11ba128-03b1-404d-ae88-452524b7ecc3,Loverboy,5,https://musicbrainz.org/artist/c11ba128-03b1-404d-ae88-452524b7ecc3,/artist/c11ba128-03b1-404d-ae88-452524b7ecc3
+20883363-1ea4-4d72-ad72-c0e767038f3e,The Mars Volta,5,https://musicbrainz.org/artist/20883363-1ea4-4d72-ad72-c0e767038f3e,/artist/20883363-1ea4-4d72-ad72-c0e767038f3e
+6d24f102-5c43-453a-8664-4ee092f441cf,Brian May,5,https://musicbrainz.org/artist/6d24f102-5c43-453a-8664-4ee092f441cf,/artist/6d24f102-5c43-453a-8664-4ee092f441cf
+b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1,Meat Loaf,5,https://musicbrainz.org/artist/b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1,/artist/b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1
+022589ac-7177-460d-a178-9976cf70e29f,Freddie Mercury,5,https://musicbrainz.org/artist/022589ac-7177-460d-a178-9976cf70e29f,/artist/022589ac-7177-460d-a178-9976cf70e29f
+c07f0676-9143-4217-8a9f-4c26bd636f13,My Chemical Romance,5,https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13,/artist/c07f0676-9143-4217-8a9f-4c26bd636f13
+88f219d8-4140-4191-af4b-de81c7c587c4,Nazareth,5,https://musicbrainz.org/artist/88f219d8-4140-4191-af4b-de81c7c587c4,/artist/88f219d8-4140-4191-af4b-de81c7c587c4
