@@ -1,0 +1,21 @@
+{
+  "name": "steamdb",
+  "scripts": {
+    "dev": "node --import @oxc-node/core/register src/example.ts",
+    "dev:debug": "cross-env DEBUG=1 node --import @oxc-node/core/register src/example.ts",
+    "dev:verbose": "cross-env DEBUG=1 VERBOSE=1 TIMING=1 node --import @oxc-node/core/register src/example.ts",
+    "dev:visual": "cross-env DEBUG=1 HEADLESS=0 node --import @oxc-node/core/register src/example.ts",
+    "build": "tsc",
+    "prebuild": "node -e \"require('fs').promises.rm('dist', { recursive: true, force: true, maxRetries: process.platform === 'win32' ? 10 : 0 }).catch(() => {})\""
+  },
+  "packageManager": "pnpm@10.10.0",
+  "dependencies": {
+    "playwright": "^1.54.1"
+  },
+  "devDependencies": {
+    "@oxc-node/core": "^0.0.29",
+    "@types/node": "^24.0.13",
+    "cross-env": "^7.0.3",
+    "typescript": "5.9.0-beta"
+  }
+}
