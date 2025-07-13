@@ -1,4 +1,4 @@
-![image info](./banner.png)
+![image info](./.github/banner.png)
 
 Meet, feedgrab!
 
